@@ -1,0 +1,66 @@
+{
+  "id": 1209250925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16911,60.02613,20.16911,60.02613",
+    "geom:latitude":60.02613,
+    "geom:longitude":20.16911,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"417.0",
+    "gn:asciiname":"Flaka",
+    "gn:country_code":"AX",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":659973,
+    "gn:latitude":60.02613,
+    "gn:longitude":20.16911,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Flaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Flakka",
+        "Flaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659973
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"cd46a1c2b1d3fb889cd5d10917cb57c2",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632789,
+            "locality_id":1209250925
+        }
+    ],
+    "wof:id":1209250925,
+    "wof:lastmodified":1537585120,
+    "wof:name":"Flaka",
+    "wof:parent_id":85632789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16911,
+    60.02613,
+    20.16911,
+    60.02613
+],
+  "geometry": {"coordinates":[20.16911,60.02613],"type":"Point"}
+}

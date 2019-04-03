@@ -1,0 +1,71 @@
+{
+  "id": 1226179297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97583,60.20806,19.97583,60.20806",
+    "geom:latitude":60.20806,
+    "geom:longitude":19.97583,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"60.0",
+    "gn:asciiname":"Norrberg",
+    "gn:country_code":"AX",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336457,
+    "gn:latitude":60.20806,
+    "gn:longitude":19.97583,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Norrberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        85667835,
+        102191581,
+        907198529,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336457
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"e7375230d15a57e21cab8e7265e8bcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198529,
+            "locality_id":1226179297,
+            "region_id":85667835
+        }
+    ],
+    "wof:id":1226179297,
+    "wof:lastmodified":1537028038,
+    "wof:name":"Norrberg",
+    "wof:parent_id":907198529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97583,
+    60.20806,
+    19.97583,
+    60.20806
+],
+  "geometry": {"coordinates":[19.97583,60.20806],"type":"Point"}
+}

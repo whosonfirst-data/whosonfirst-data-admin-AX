@@ -1,0 +1,74 @@
+{
+  "id": 1276804437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37872,60.21022,20.37872,60.21022",
+    "geom:latitude":60.21022,
+    "geom:longitude":20.37872,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"941.0",
+    "gn:asciiname":"Grundsunda",
+    "gn:country_code":"AX",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":659746,
+    "gn:latitude":60.21022,
+    "gn:longitude":20.37872,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Grundsunda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gransunda",
+        "Grundsunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198495,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659746
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"abe6dd5b21c29217c5278126e0aa6c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198495,
+            "locality_id":1276804437,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276804437,
+    "wof:lastmodified":1537585120,
+    "wof:name":"Grundsunda",
+    "wof:parent_id":907198495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37872,
+    60.21021999999999,
+    20.37872,
+    60.21021999999999
+],
+  "geometry": {"coordinates":[20.37872,60.21021999999999],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243202923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48739,60.0467,20.48739,60.0467",
+    "geom:latitude":60.0467,
+    "geom:longitude":20.48739,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Sonnboda",
+    "gn:country_code":"AX",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":636291,
+    "gn:latitude":60.0467,
+    "gn:longitude":20.48739,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Sonnboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sonboda",
+        "Sonnboda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198485,
+        136253047,
+        1159321503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636291
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"8ddecb872544e95b2b7934cc8cc7f98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321503,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198485,
+            "locality_id":1243202923,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243202923,
+    "wof:lastmodified":1537585118,
+    "wof:name":"Sonnboda",
+    "wof:parent_id":907198485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48739,
+    60.0467,
+    20.48739,
+    60.0467
+],
+  "geometry": {"coordinates":[20.48739,60.0467],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259619811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9375,60.07944,19.9375,60.07944",
+    "geom:latitude":60.07944,
+    "geom:longitude":19.9375,
+    "gn:admin1_code":"211",
+    "gn:admin2_code":"478.0",
+    "gn:asciiname":"Vaestra Ytternaes",
+    "gn:country_code":"AX",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336357,
+    "gn:latitude":60.07944,
+    "gn:longitude":19.9375,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"V\u00e4stra Yttern\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        85667871,
+        102191581,
+        907199729,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336357
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"c5be499944805f38f9981c2969eef74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907199729,
+            "locality_id":1259619811,
+            "region_id":85667871
+        }
+    ],
+    "wof:id":1259619811,
+    "wof:lastmodified":1536662315,
+    "wof:name":"Vaestra Ytternaes",
+    "wof:parent_id":907199729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9375,
+    60.07944000000001,
+    19.9375,
+    60.07944000000001
+],
+  "geometry": {"coordinates":[19.9375,60.07944000000001],"type":"Point"}
+}

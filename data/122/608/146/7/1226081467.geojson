@@ -1,0 +1,72 @@
+{
+  "id": 1226081467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01667,60.41667,21.01667,60.41667",
+    "geom:latitude":60.41667,
+    "geom:longitude":21.01667,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"35.0",
+    "gn:asciiname":"Koskenpaeae",
+    "gn:country_code":"AX",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":651101,
+    "gn:latitude":60.41667,
+    "gn:longitude":21.01667,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Koskenp\u00e4\u00e4",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198555,
+        136253047,
+        1159321503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":651101
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"b02e1922c0f0d7973b1e7058fc2709d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321503,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198555,
+            "locality_id":1226081467,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226081467,
+    "wof:lastmodified":1536673567,
+    "wof:name":"Koskenpaeae",
+    "wof:parent_id":907198555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01667,
+    60.41667,
+    21.01667,
+    60.41667
+],
+  "geometry": {"coordinates":[21.01667,60.41667],"type":"Point"}
+}

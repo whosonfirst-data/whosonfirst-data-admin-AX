@@ -1,0 +1,72 @@
+{
+  "id": 1326866663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00139,60.14139,20.00139,60.14139",
+    "geom:latitude":60.14139,
+    "geom:longitude":20.00139,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"170.0",
+    "gn:asciiname":"Alfhem",
+    "gn:country_code":"AX",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":845860,
+    "gn:latitude":60.14139,
+    "gn:longitude":20.00139,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Alfhem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198489,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":845860
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"03bd53d8935d8e377da10d37c6dae5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198489,
+            "locality_id":1326866663,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326866663,
+    "wof:lastmodified":1536998325,
+    "wof:name":"Alfhem",
+    "wof:parent_id":907198489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00139,
+    60.14139,
+    20.00139,
+    60.14139
+],
+  "geometry": {"coordinates":[20.00139,60.14139],"type":"Point"}
+}

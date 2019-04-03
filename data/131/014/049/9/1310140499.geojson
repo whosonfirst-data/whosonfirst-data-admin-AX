@@ -1,0 +1,70 @@
+{
+  "id": 1310140499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6975,60.20333,20.6975,60.20333",
+    "geom:latitude":60.20333,
+    "geom:longitude":20.6975,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"295.0",
+    "gn:asciiname":"Simas",
+    "gn:country_code":"AX",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":846588,
+    "gn:latitude":60.20333,
+    "gn:longitude":20.6975,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Simas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907199697,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":846588
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"07818e4c369e2b2c01bc77a47d53b0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907199697,
+            "locality_id":1310140499,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310140499,
+    "wof:lastmodified":1536946421,
+    "wof:name":"Simas",
+    "wof:parent_id":907199697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6975,
+    60.20333,
+    20.6975,
+    60.20333
+],
+  "geometry": {"coordinates":[20.6975,60.20333],"type":"Point"}
+}

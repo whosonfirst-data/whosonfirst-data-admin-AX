@@ -1,0 +1,62 @@
+{
+  "id": 1209550139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91306,60.19833,19.91306,60.19833",
+    "geom:latitude":60.19833,
+    "geom:longitude":19.91306,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"170.0",
+    "gn:asciiname":"Norrgard",
+    "gn:country_code":"AX",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336487,
+    "gn:latitude":60.19833,
+    "gn:longitude":19.91306,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Norrg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336487
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"edc694d4adf8d25b2c8041fa96b478ff",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632789,
+            "locality_id":1209550139
+        }
+    ],
+    "wof:id":1209550139,
+    "wof:lastmodified":1536283721,
+    "wof:name":"Norrgard",
+    "wof:parent_id":85632789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91306,
+    60.19833000000001,
+    19.91306,
+    60.19833000000001
+],
+  "geometry": {"coordinates":[19.91306,60.19833000000001],"type":"Point"}
+}

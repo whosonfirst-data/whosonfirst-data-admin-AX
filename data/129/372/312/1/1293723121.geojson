@@ -1,0 +1,72 @@
+{
+  "id": 1293723121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01667,60.11667,20.01667,60.11667",
+    "geom:latitude":60.11667,
+    "geom:longitude":20.01667,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"170.0",
+    "gn:asciiname":"Sag",
+    "gn:country_code":"AX",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":638222,
+    "gn:latitude":60.11667,
+    "gn:longitude":20.01667,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"S\u00e5g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198489,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":638222
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"b8d89439099749354e848d47130a0c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198489,
+            "locality_id":1293723121,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293723121,
+    "wof:lastmodified":1536945237,
+    "wof:name":"Sag",
+    "wof:parent_id":907198489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01667,
+    60.11666999999999,
+    20.01667,
+    60.11666999999999
+],
+  "geometry": {"coordinates":[20.01667,60.11666999999999],"type":"Point"}
+}

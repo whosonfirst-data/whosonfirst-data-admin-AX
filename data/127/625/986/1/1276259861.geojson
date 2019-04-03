@@ -1,0 +1,73 @@
+{
+  "id": 1276259861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7,60.2,19.7,60.2",
+    "geom:latitude":60.2,
+    "geom:longitude":19.7,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Marsund",
+    "gn:cc2":"FI",
+    "gn:country_code":"AX",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3041729,
+    "gn:latitude":60.2,
+    "gn:longitude":19.7,
+    "gn:modification_date":"2018-07-15",
+    "gn:name":"Marsund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198477,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3041729
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"eda83e6e518c6ef0957e77de5a3879e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198477,
+            "locality_id":1276259861,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276259861,
+    "wof:lastmodified":1536876266,
+    "wof:name":"Marsund",
+    "wof:parent_id":907198477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7,
+    60.2,
+    19.7,
+    60.2
+],
+  "geometry": {"coordinates":[19.7,60.2],"type":"Point"}
+}

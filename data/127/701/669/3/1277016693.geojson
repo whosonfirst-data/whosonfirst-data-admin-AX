@@ -1,0 +1,71 @@
+{
+  "id": 1277016693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9025,60.20611,19.9025,60.20611",
+    "geom:latitude":60.20611,
+    "geom:longitude":19.9025,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"60.0",
+    "gn:asciiname":"OEstanaker",
+    "gn:country_code":"AX",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336486,
+    "gn:latitude":60.20611,
+    "gn:longitude":19.9025,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"\u00d6stan\u00e5ker",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        85667835,
+        102191581,
+        907198529,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336486
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"c48df61b91f74ed4410ea83f999676b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198529,
+            "locality_id":1277016693,
+            "region_id":85667835
+        }
+    ],
+    "wof:id":1277016693,
+    "wof:lastmodified":1536856513,
+    "wof:name":"OEstanaker",
+    "wof:parent_id":907198529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9025,
+    60.20611,
+    19.9025,
+    60.20611
+],
+  "geometry": {"coordinates":[19.9025,60.20611],"type":"Point"}
+}

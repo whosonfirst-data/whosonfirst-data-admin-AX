@@ -1,0 +1,62 @@
+{
+  "id": 1209546131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1,60.35,21.1,60.35",
+    "geom:latitude":60.35,
+    "geom:longitude":21.1,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"35.0",
+    "gn:asciiname":"Torsholma",
+    "gn:country_code":"AX",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":634065,
+    "gn:latitude":60.35,
+    "gn:longitude":21.1,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Torsholma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":634065
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"f78946c33e690b62c8bee291dc416094",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632789,
+            "locality_id":1209546131
+        }
+    ],
+    "wof:id":1209546131,
+    "wof:lastmodified":1536283837,
+    "wof:name":"Torsholma",
+    "wof:parent_id":85632789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1,
+    60.35,
+    21.1,
+    60.35
+],
+  "geometry": {"coordinates":[21.1,60.35],"type":"Point"}
+}

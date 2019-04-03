@@ -1,0 +1,72 @@
+{
+  "id": 1226778589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96667,59.93333,20.96667,59.93333",
+    "geom:latitude":59.93333,
+    "geom:longitude":20.96667,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"318.0",
+    "gn:asciiname":"Soederby",
+    "gn:country_code":"AX",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":636463,
+    "gn:latitude":59.93333,
+    "gn:longitude":20.96667,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"S\u00f6derby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907199659,
+        136253047,
+        1159321503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636463
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"0a8ba15c487ee04727442fca5fe2f676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321503,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907199659,
+            "locality_id":1226778589,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226778589,
+    "wof:lastmodified":1536668355,
+    "wof:name":"Soederby",
+    "wof:parent_id":907199659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96667,
+    59.93333000000001,
+    20.96667,
+    59.93333000000001
+],
+  "geometry": {"coordinates":[20.96667,59.93333000000001],"type":"Point"}
+}

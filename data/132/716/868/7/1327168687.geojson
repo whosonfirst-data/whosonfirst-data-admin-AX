@@ -1,0 +1,72 @@
+{
+  "id": 1327168687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55,60.1,20.55,60.1",
+    "geom:latitude":60.1,
+    "geom:longitude":20.55,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Ulversoe",
+    "gn:country_code":"AX",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":633398,
+    "gn:latitude":60.1,
+    "gn:longitude":20.55,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Ulvers\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198485,
+        136253047,
+        1159321503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":633398
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"644dbf22a983713bb05d9ccd5887ef68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321503,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198485,
+            "locality_id":1327168687,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327168687,
+    "wof:lastmodified":1537059057,
+    "wof:name":"Ulversoe",
+    "wof:parent_id":907198485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55,
+    60.1,
+    20.55,
+    60.1
+],
+  "geometry": {"coordinates":[20.55,60.1],"type":"Point"}
+}

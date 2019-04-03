@@ -1,0 +1,76 @@
+{
+  "id": 1243299561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20731,60.059,20.20731,60.059",
+    "geom:latitude":60.059,
+    "geom:longitude":20.20731,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"417.0",
+    "gn:asciiname":"Haddnaes",
+    "gn:country_code":"AX",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":659476,
+    "gn:latitude":60.059,
+    "gn:longitude":20.20731,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Haddn\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hadnes",
+        "Haddnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198483,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659476
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"23d0046b8a879eab4fdd1cde41ceabbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198483,
+            "locality_id":1243299561,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243299561,
+    "wof:lastmodified":1537585120,
+    "wof:name":"Haddnaes",
+    "wof:parent_id":907198483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20731,
+    60.059,
+    20.20731,
+    60.059
+],
+  "geometry": {"coordinates":[20.20731,60.059],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1125808131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98333,60.35,19.98333,60.35",
+    "geom:latitude":60.35,
+    "geom:longitude":19.98333,
+    "gn:gn_country":"AX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AX",
+    "lbl:latitude":60.35,
+    "lbl:longitude":19.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Stalsvy"
+    ],
+    "qs_pg:aaroncc":"AX",
+    "qs_pg:gn_country":"AX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3041679,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St\u00e5lsby",
+    "qs_pg:name_adm0":"\u00c5land",
+    "qs_pg:name_adm1":"Finstr\u00f6m",
+    "qs_pg:photos":116,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":116,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165997,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":12577865,
+    "qs_pg:woe_id":573354,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":12577865,
+    "woe:name_adm0":"\u00c5land",
+    "woe:name_adm1":"Finstr\u00f6m",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198535,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3041679,
+        "gp:id":573354,
+        "qs_pg:id":1165997
+    },
+    "wof:country":"AX",
+    "wof:created":1497291547,
+    "wof:geomhash":"45e101e0b666b4f9d3076b15c1d6d63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198535,
+            "locality_id":1125808131,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125808131,
+    "wof:lastmodified":1509998557,
+    "wof:name":"St\u00e5lsby",
+    "wof:parent_id":907198535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98333,
+    60.35,
+    19.98333,
+    60.35
+],
+  "geometry": {"coordinates":[19.98333,60.35],"type":"Point"}
+}

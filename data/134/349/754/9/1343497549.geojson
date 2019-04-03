@@ -1,0 +1,72 @@
+{
+  "id": 1343497549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.145,60.08556,20.145,60.08556",
+    "geom:latitude":60.08556,
+    "geom:longitude":20.145,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"417.0",
+    "gn:asciiname":"Bastvik",
+    "gn:country_code":"AX",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":845812,
+    "gn:latitude":60.08556,
+    "gn:longitude":20.145,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Bastvik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198483,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":845812
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"85bfa72299cf45dbafdd6c07d0a74dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198483,
+            "locality_id":1343497549,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343497549,
+    "wof:lastmodified":1536692768,
+    "wof:name":"Bastvik",
+    "wof:parent_id":907198483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.145,
+    60.08556,
+    20.145,
+    60.08556
+],
+  "geometry": {"coordinates":[20.145,60.08556],"type":"Point"}
+}

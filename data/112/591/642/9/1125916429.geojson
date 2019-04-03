@@ -1,0 +1,100 @@
+{
+  "id": 1125916429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08333,60.53333,21.08333,60.53333",
+    "geom:latitude":60.53333,
+    "geom:longitude":21.08333,
+    "gn:gn_country":"AX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AX",
+    "lbl:latitude":60.53333,
+    "lbl:longitude":21.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Jurmo"
+    ],
+    "name:eng_x_preferred":[
+        "Jurmo"
+    ],
+    "name:fin_x_preferred":[
+        "Jurmo"
+    ],
+    "qs_pg:aaroncc":"AX",
+    "qs_pg:gn_country":"AX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":655377,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Jurmo",
+    "qs_pg:name_adm0":"\u00c5land",
+    "qs_pg:name_adm1":"Br\u00e4nd\u00f6",
+    "qs_pg:photos":36,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":36,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":982958,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":12577865,
+    "qs_pg:woe_id":566400,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":12577865,
+    "woe:name_adm0":"\u00c5land",
+    "woe:name_adm1":"Br\u00e4nd\u00f6",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198555,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655377,
+        "gp:id":566400,
+        "qs_pg:id":982958,
+        "wd:id":"Q179761"
+    },
+    "wof:country":"AX",
+    "wof:created":1497296329,
+    "wof:geomhash":"0e7cdcb1447d3be4247b2db24adf4572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198555,
+            "locality_id":1125916429,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125916429,
+    "wof:lastmodified":1513898745,
+    "wof:name":"Jurmo",
+    "wof:parent_id":907198555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08333,
+    60.53333,
+    21.08333,
+    60.53333
+],
+  "geometry": {"coordinates":[21.08333,60.53333],"type":"Point"}
+}

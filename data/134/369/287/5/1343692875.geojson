@@ -1,0 +1,70 @@
+{
+  "id": 1343692875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98016,60.30908,19.98016,60.30908",
+    "geom:latitude":60.30908,
+    "geom:longitude":19.98016,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"736.0",
+    "gn:asciiname":"OEdkarby",
+    "gn:country_code":"AX",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3041711,
+    "gn:latitude":60.30908,
+    "gn:longitude":19.98016,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"\u00d6dkarby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198535,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3041711
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"8b3a8067958dd418caf20554d9723a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198535,
+            "locality_id":1343692875,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343692875,
+    "wof:lastmodified":1536908673,
+    "wof:name":"OEdkarby",
+    "wof:parent_id":907198535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98016,
+    60.30908,
+    19.98016,
+    60.30908
+],
+  "geometry": {"coordinates":[19.98016,60.30908],"type":"Point"}
+}

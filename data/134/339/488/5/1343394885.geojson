@@ -1,0 +1,70 @@
+{
+  "id": 1343394885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04306,60.28472,20.04306,60.28472",
+    "geom:latitude":60.28472,
+    "geom:longitude":20.04306,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"736.0",
+    "gn:asciiname":"Kvarnbo",
+    "gn:country_code":"AX",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":850241,
+    "gn:latitude":60.28472,
+    "gn:longitude":20.04306,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Kvarnbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198535,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":850241
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"9b2c4a08ab79b64a8096994bba7367dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198535,
+            "locality_id":1343394885,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343394885,
+    "wof:lastmodified":1536839870,
+    "wof:name":"Kvarnbo",
+    "wof:parent_id":907198535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04306,
+    60.28471999999999,
+    20.04306,
+    60.28471999999999
+],
+  "geometry": {"coordinates":[20.04306,60.28471999999999],"type":"Point"}
+}

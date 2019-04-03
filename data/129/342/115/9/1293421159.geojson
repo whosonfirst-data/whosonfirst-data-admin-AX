@@ -1,0 +1,70 @@
+{
+  "id": 1293421159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65417,60.20917,19.65417,60.20917",
+    "geom:latitude":60.20917,
+    "geom:longitude":19.65417,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Karls",
+    "gn:country_code":"AX",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336544,
+    "gn:latitude":60.20917,
+    "gn:longitude":19.65417,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Karls",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198473,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336544
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"8e1031a98c20104dcda5aaa7cb880cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198473,
+            "locality_id":1293421159,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293421159,
+    "wof:lastmodified":1536882064,
+    "wof:name":"Karls",
+    "wof:parent_id":907198473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65417,
+    60.20916999999999,
+    19.65417,
+    60.20916999999999
+],
+  "geometry": {"coordinates":[19.65417,60.20916999999999],"type":"Point"}
+}

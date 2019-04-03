@@ -1,0 +1,72 @@
+{
+  "id": 1310040799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93083,60.15861,19.93083,60.15861",
+    "geom:latitude":60.15861,
+    "geom:longitude":19.93083,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"170.0",
+    "gn:asciiname":"Ulvsby",
+    "gn:country_code":"AX",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336446,
+    "gn:latitude":60.15861,
+    "gn:longitude":19.93083,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Ulvsby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198489,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336446
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"c1d03eee64468bbb9aa2b5197e02a029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198489,
+            "locality_id":1310040799,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310040799,
+    "wof:lastmodified":1537086542,
+    "wof:name":"Ulvsby",
+    "wof:parent_id":907198489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93083,
+    60.15861,
+    19.93083,
+    60.15861
+],
+  "geometry": {"coordinates":[19.93083,60.15861],"type":"Point"}
+}

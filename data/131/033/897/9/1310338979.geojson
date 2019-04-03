@@ -1,0 +1,75 @@
+{
+  "id": 1310338979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13333,60.23333,20.13333,60.23333",
+    "geom:latitude":60.23333,
+    "geom:longitude":20.13333,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"771.0",
+    "gn:asciiname":"Domarboele",
+    "gn:country_code":"AX",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660383,
+    "gn:latitude":60.23333,
+    "gn:longitude":20.13333,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Domarb\u00f6le",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Domarb\u00eble",
+        "Domarb\u00f6le"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        85667867,
+        102191581,
+        907198499,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660383
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"4dec4b3ef583fd5807e375c8939911d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198499,
+            "locality_id":1310338979,
+            "region_id":85667867
+        }
+    ],
+    "wof:id":1310338979,
+    "wof:lastmodified":1537585120,
+    "wof:name":"Domarboele",
+    "wof:parent_id":907198499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13333,
+    60.23333,
+    20.13333,
+    60.23333
+],
+  "geometry": {"coordinates":[20.13333,60.23333],"type":"Point"}
+}

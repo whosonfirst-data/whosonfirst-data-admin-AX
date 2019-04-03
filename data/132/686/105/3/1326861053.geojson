@@ -1,0 +1,72 @@
+{
+  "id": 1326861053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97889,60.13806,19.97889,60.13806",
+    "geom:latitude":60.13806,
+    "geom:longitude":19.97889,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"170.0",
+    "gn:asciiname":"Groenbacka",
+    "gn:country_code":"AX",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336444,
+    "gn:latitude":60.13806,
+    "gn:longitude":19.97889,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Gr\u00f6nbacka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198489,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336444
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"785be68b7284e9970c0467dee5da8032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198489,
+            "locality_id":1326861053,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326861053,
+    "wof:lastmodified":1537006578,
+    "wof:name":"Groenbacka",
+    "wof:parent_id":907198489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97889,
+    60.13806,
+    19.97889,
+    60.13806
+],
+  "geometry": {"coordinates":[19.97889,60.13806],"type":"Point"}
+}

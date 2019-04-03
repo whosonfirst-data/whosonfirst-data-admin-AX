@@ -1,0 +1,70 @@
+{
+  "id": 1293525503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.85194,60.33389,19.85194,60.33389",
+    "geom:latitude":60.33389,
+    "geom:longitude":19.85194,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Pantsarnaes",
+    "gn:country_code":"AX",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336639,
+    "gn:latitude":60.33389,
+    "gn:longitude":19.85194,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Pantsarn\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198503,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336639
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"fec822b2bd9d683bf2538d3ae0c7c0e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198503,
+            "locality_id":1293525503,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293525503,
+    "wof:lastmodified":1536732463,
+    "wof:name":"Pantsarnaes",
+    "wof:parent_id":907198503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.85194,
+    60.33389,
+    19.85194,
+    60.33389
+],
+  "geometry": {"coordinates":[19.85194,60.33389],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226373355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.74037,60.25566,19.74037,60.25566",
+    "geom:latitude":60.25566,
+    "geom:longitude":19.74037,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Salis",
+    "gn:cc2":"FI",
+    "gn:country_code":"AX",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3041698,
+    "gn:latitude":60.25566,
+    "gn:longitude":19.74037,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"S\u00e5lis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e5les"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198477,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3041698
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"f8a353e43d608f5e8621a1efb4cacd89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198477,
+            "locality_id":1226373355,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226373355,
+    "wof:lastmodified":1537585121,
+    "wof:name":"Salis",
+    "wof:parent_id":907198477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.74037,
+    60.25566,
+    19.74037,
+    60.25566
+],
+  "geometry": {"coordinates":[19.74037,60.25566],"type":"Point"}
+}

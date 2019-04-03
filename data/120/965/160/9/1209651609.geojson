@@ -1,0 +1,62 @@
+{
+  "id": 1209651609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39278,60.24778,20.39278,60.24778",
+    "geom:latitude":60.24778,
+    "geom:longitude":20.39278,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"941.0",
+    "gn:asciiname":"Lillposten",
+    "gn:country_code":"AX",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":849690,
+    "gn:latitude":60.24778,
+    "gn:longitude":20.39278,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Lillposten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":849690
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"96c6fcdac8f93da251614ca1e64bbb6b",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632789,
+            "locality_id":1209651609
+        }
+    ],
+    "wof:id":1209651609,
+    "wof:lastmodified":1536280562,
+    "wof:name":"Lillposten",
+    "wof:parent_id":85632789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39278,
+    60.24778000000001,
+    20.39278,
+    60.24778000000001
+],
+  "geometry": {"coordinates":[20.39278,60.24778000000001],"type":"Point"}
+}

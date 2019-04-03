@@ -1,0 +1,93 @@
+{
+  "id": 1125808077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37175,60.26148,20.37175,60.26148",
+    "geom:latitude":60.26148,
+    "geom:longitude":20.37175,
+    "gn:gn_country":"AX",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AX",
+    "lbl:latitude":60.26148,
+    "lbl:longitude":20.37175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "L\u00ebf\u00f6"
+    ],
+    "qs_pg:aaroncc":"AX",
+    "qs_pg:gn_country":"AX",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":647566,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"L\u00f6v\u00f6",
+    "qs_pg:name_adm0":"\u00c5land",
+    "qs_pg:name_adm1":"V\u00e5rd\u00f6",
+    "qs_pg:photos":61,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165989,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":12577865,
+    "qs_pg:woe_id":569229,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":12577865,
+    "woe:name_adm0":"\u00c5land",
+    "woe:name_adm1":"V\u00e5rd\u00f6",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198495,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":647566,
+        "gp:id":569229,
+        "qs_pg:id":1165989
+    },
+    "wof:country":"AX",
+    "wof:created":1497291545,
+    "wof:geomhash":"974db9d87822cb050e5212ac31841dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198495,
+            "locality_id":1125808077,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125808077,
+    "wof:lastmodified":1509998556,
+    "wof:name":"L\u00f6v\u00f6",
+    "wof:parent_id":907198495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37175,
+    60.26148,
+    20.37175,
+    60.26148
+],
+  "geometry": {"coordinates":[20.37175,60.26148],"type":"Point"}
+}

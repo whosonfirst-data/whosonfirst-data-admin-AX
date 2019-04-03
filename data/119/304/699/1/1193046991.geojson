@@ -1,0 +1,72 @@
+{
+  "id": 1193046991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70083,60.19917,19.70083,60.19917",
+    "geom:latitude":60.19917,
+    "geom:longitude":19.70083,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Nordstroem",
+    "gn:country_code":"AX",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336524,
+    "gn:latitude":60.19917,
+    "gn:longitude":19.70083,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Nordstr\u00f6m",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198477,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336524
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"80b7a5dfcce1f483f09174e1929d55c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198477,
+            "locality_id":1193046991,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193046991,
+    "wof:lastmodified":1536369784,
+    "wof:name":"Nordstroem",
+    "wof:parent_id":907198477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70083,
+    60.19917,
+    19.70083,
+    60.19917
+],
+  "geometry": {"coordinates":[19.70083,60.19917],"type":"Point"}
+}

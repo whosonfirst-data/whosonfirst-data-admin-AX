@@ -1,0 +1,72 @@
+{
+  "id": 1360121619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89694,60.13806,19.89694,60.13806",
+    "geom:latitude":60.13806,
+    "geom:longitude":19.89694,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"170.0",
+    "gn:asciiname":"Norrgard",
+    "gn:country_code":"AX",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336455,
+    "gn:latitude":60.13806,
+    "gn:longitude":19.89694,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Norrg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198489,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336455
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"958706b9e0afe72e2f24cdb19179ec29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198489,
+            "locality_id":1360121619,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360121619,
+    "wof:lastmodified":1536892541,
+    "wof:name":"Norrgard",
+    "wof:parent_id":907198489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89694,
+    60.13806,
+    19.89694,
+    60.13806
+],
+  "geometry": {"coordinates":[19.89694,60.13806],"type":"Point"}
+}

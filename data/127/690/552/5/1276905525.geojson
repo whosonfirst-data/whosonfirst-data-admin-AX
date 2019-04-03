@@ -1,0 +1,72 @@
+{
+  "id": 1276905525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.73472,60.20194,19.73472,60.20194",
+    "geom:latitude":60.20194,
+    "geom:longitude":19.73472,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Nedergard",
+    "gn:country_code":"AX",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336525,
+    "gn:latitude":60.20194,
+    "gn:longitude":19.73472,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Nederg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198477,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336525
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"2fb43c0684e263137b01b855132a8548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198477,
+            "locality_id":1276905525,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276905525,
+    "wof:lastmodified":1537006291,
+    "wof:name":"Nedergard",
+    "wof:parent_id":907198477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.73472000000001,
+    60.20194,
+    19.73472000000001,
+    60.20194
+],
+  "geometry": {"coordinates":[19.73472000000001,60.20194],"type":"Point"}
+}

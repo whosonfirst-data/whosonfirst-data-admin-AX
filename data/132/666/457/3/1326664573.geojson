@@ -1,0 +1,72 @@
+{
+  "id": 1326664573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93874,60.45178,20.93874,60.45178",
+    "geom:latitude":60.45178,
+    "geom:longitude":20.93874,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"35.0",
+    "gn:asciiname":"Fiskoe",
+    "gn:country_code":"AX",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":659984,
+    "gn:latitude":60.45178,
+    "gn:longitude":20.93874,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Fisk\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198555,
+        136253047,
+        1159321503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":659984
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"5c322902a8f5769f813cb401bd15847e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321503,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198555,
+            "locality_id":1326664573,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326664573,
+    "wof:lastmodified":1536793564,
+    "wof:name":"Fiskoe",
+    "wof:parent_id":907198555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93874,
+    60.45178000000001,
+    20.93874,
+    60.45178000000001
+],
+  "geometry": {"coordinates":[20.93874,60.45178000000001],"type":"Point"}
+}

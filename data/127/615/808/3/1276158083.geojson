@@ -1,0 +1,72 @@
+{
+  "id": 1276158083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88333,59.93333,20.88333,59.93333",
+    "geom:latitude":59.93333,
+    "geom:longitude":20.88333,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"318.0",
+    "gn:asciiname":"Lilleboele",
+    "gn:country_code":"AX",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":647969,
+    "gn:latitude":59.93333,
+    "gn:longitude":20.88333,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Lilleb\u00f6le",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907199659,
+        136253047,
+        1159321503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":647969
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"872b119a89a41508e57e2143301fe9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321503,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907199659,
+            "locality_id":1276158083,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276158083,
+    "wof:lastmodified":1537012912,
+    "wof:name":"Lilleboele",
+    "wof:parent_id":907199659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88333,
+    59.93333000000001,
+    20.88333,
+    59.93333000000001
+],
+  "geometry": {"coordinates":[20.88333,59.93333000000001],"type":"Point"}
+}

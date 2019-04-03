@@ -1,0 +1,62 @@
+{
+  "id": 1209041533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13326,60.30058,20.13326,60.30058",
+    "geom:latitude":60.30058,
+    "geom:longitude":20.13326,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"736.0",
+    "gn:asciiname":"Langbergsoeda",
+    "gn:country_code":"AX",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":649125,
+    "gn:latitude":60.30058,
+    "gn:longitude":20.13326,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"L\u00e5ngbergs\u00f6da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":649125
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"dd1a9e676d5e755a1adafd391e9ed6f9",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632789,
+            "locality_id":1209041533
+        }
+    ],
+    "wof:id":1209041533,
+    "wof:lastmodified":1536299530,
+    "wof:name":"Langbergsoeda",
+    "wof:parent_id":85632789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13326,
+    60.30058,
+    20.13326,
+    60.30058
+],
+  "geometry": {"coordinates":[20.13326,60.30058],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242708871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26297,60.12875,20.26297,60.12875",
+    "geom:latitude":60.12875,
+    "geom:longitude":20.26297,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"438.0",
+    "gn:asciiname":"Tullen",
+    "gn:country_code":"AX",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":845880,
+    "gn:latitude":60.12875,
+    "gn:longitude":20.26297,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Tullen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198491,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":845880
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"26832d65da9abeb9832e04a099b44e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198491,
+            "locality_id":1242708871,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242708871,
+    "wof:lastmodified":1536873787,
+    "wof:name":"Tullen",
+    "wof:parent_id":907198491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26297000000001,
+    60.12875,
+    20.26297000000001,
+    60.12875
+],
+  "geometry": {"coordinates":[20.26297000000001,60.12875],"type":"Point"}
+}

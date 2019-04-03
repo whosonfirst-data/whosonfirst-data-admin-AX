@@ -1,0 +1,72 @@
+{
+  "id": 1242812233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.85861,60.135,19.85861,60.135",
+    "geom:latitude":60.135,
+    "geom:longitude":19.85861,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"170.0",
+    "gn:asciiname":"Janses",
+    "gn:country_code":"AX",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336452,
+    "gn:latitude":60.135,
+    "gn:longitude":19.85861,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Janses",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198489,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336452
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"eecfcac4c35febe8c96e3146ea807198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198489,
+            "locality_id":1242812233,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242812233,
+    "wof:lastmodified":1536726186,
+    "wof:name":"Janses",
+    "wof:parent_id":907198489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.85861,
+    60.135,
+    19.85861,
+    60.135
+],
+  "geometry": {"coordinates":[19.85861,60.135],"type":"Point"}
+}

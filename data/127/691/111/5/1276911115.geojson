@@ -1,0 +1,71 @@
+{
+  "id": 1276911115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.85417,60.21556,19.85417,60.21556",
+    "geom:latitude":60.21556,
+    "geom:longitude":19.85417,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"60.0",
+    "gn:asciiname":"Bjoerkbacka",
+    "gn:country_code":"AX",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336479,
+    "gn:latitude":60.21556,
+    "gn:longitude":19.85417,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Bj\u00f6rkbacka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        85667835,
+        102191581,
+        907198529,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336479
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"e4de7d5a742210ea1e0f4d0a7d6a98a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198529,
+            "locality_id":1276911115,
+            "region_id":85667835
+        }
+    ],
+    "wof:id":1276911115,
+    "wof:lastmodified":1536998516,
+    "wof:name":"Bjoerkbacka",
+    "wof:parent_id":907198529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.85417,
+    60.21556,
+    19.85417,
+    60.21556
+],
+  "geometry": {"coordinates":[19.85417,60.21556],"type":"Point"}
+}

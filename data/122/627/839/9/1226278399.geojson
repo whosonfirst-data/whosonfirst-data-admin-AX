@@ -1,0 +1,72 @@
+{
+  "id": 1226278399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78,60.09972,19.78,60.09972",
+    "geom:latitude":60.09972,
+    "geom:longitude":19.78,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"170.0",
+    "gn:asciiname":"Alebo",
+    "gn:country_code":"AX",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336402,
+    "gn:latitude":60.09972,
+    "gn:longitude":19.78,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Alebo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198489,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336402
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"7f913b0d5bb69663439e47012d366bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198489,
+            "locality_id":1226278399,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226278399,
+    "wof:lastmodified":1536886058,
+    "wof:name":"Alebo",
+    "wof:parent_id":907198489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78,
+    60.09972,
+    19.78,
+    60.09972
+],
+  "geometry": {"coordinates":[19.78,60.09972],"type":"Point"}
+}

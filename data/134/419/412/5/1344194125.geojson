@@ -1,0 +1,72 @@
+{
+  "id": 1344194125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69333,60.19833,19.69333,60.19833",
+    "geom:latitude":60.19833,
+    "geom:longitude":19.69333,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"Kattnaes",
+    "gn:country_code":"AX",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336523,
+    "gn:latitude":60.19833,
+    "gn:longitude":19.69333,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Kattn\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198477,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336523
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"8b1f49d62e8ed316caba8378a60997d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198477,
+            "locality_id":1344194125,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344194125,
+    "wof:lastmodified":1536682595,
+    "wof:name":"Kattnaes",
+    "wof:parent_id":907198477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69333,
+    60.19833000000001,
+    19.69333,
+    60.19833000000001
+],
+  "geometry": {"coordinates":[19.69333,60.19833000000001],"type":"Point"}
+}

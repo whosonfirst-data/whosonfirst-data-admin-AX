@@ -1,0 +1,71 @@
+{
+  "id": 1276910117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.17929,60.25883,20.17929,60.25883",
+    "geom:latitude":60.25883,
+    "geom:longitude":20.17929,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"771.0",
+    "gn:asciiname":"Stroembolstad",
+    "gn:country_code":"AX",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":850222,
+    "gn:latitude":60.25883,
+    "gn:longitude":20.17929,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Str\u00f6mbolstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        85667867,
+        102191581,
+        907198499,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":850222
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"753253a34009a86f19289a4919fcc876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198499,
+            "locality_id":1276910117,
+            "region_id":85667867
+        }
+    ],
+    "wof:id":1276910117,
+    "wof:lastmodified":1536999929,
+    "wof:name":"Stroembolstad",
+    "wof:parent_id":907198499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17929,
+    60.25883,
+    20.17929,
+    60.25883
+],
+  "geometry": {"coordinates":[20.17929,60.25883],"type":"Point"}
+}

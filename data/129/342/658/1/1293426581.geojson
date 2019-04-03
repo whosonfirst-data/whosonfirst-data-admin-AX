@@ -1,0 +1,72 @@
+{
+  "id": 1293426581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.86528,60.10111,19.86528,60.10111",
+    "geom:latitude":60.10111,
+    "geom:longitude":19.86528,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"170.0",
+    "gn:asciiname":"Fagerlund",
+    "gn:country_code":"AX",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336437,
+    "gn:latitude":60.10111,
+    "gn:longitude":19.86528,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Fagerlund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198489,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336437
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"9a75316b9ee02455f243402abf2d66e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198489,
+            "locality_id":1293426581,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293426581,
+    "wof:lastmodified":1536873785,
+    "wof:name":"Fagerlund",
+    "wof:parent_id":907198489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.86528,
+    60.10111,
+    19.86528,
+    60.10111
+],
+  "geometry": {"coordinates":[19.86528,60.10111],"type":"Point"}
+}

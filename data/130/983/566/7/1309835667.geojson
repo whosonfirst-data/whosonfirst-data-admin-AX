@@ -1,0 +1,71 @@
+{
+  "id": 1309835667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0525,60.21389,20.0525,60.21389",
+    "geom:latitude":60.21389,
+    "geom:longitude":20.0525,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"771.0",
+    "gn:asciiname":"Tjudnaes",
+    "gn:country_code":"AX",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":845926,
+    "gn:latitude":60.21389,
+    "gn:longitude":20.0525,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Tjudn\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        85667867,
+        102191581,
+        907198499,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":845926
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"b965f316c15ad1721c66a191155e32a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198499,
+            "locality_id":1309835667,
+            "region_id":85667867
+        }
+    ],
+    "wof:id":1309835667,
+    "wof:lastmodified":1536887701,
+    "wof:name":"Tjudnaes",
+    "wof:parent_id":907198499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0525,
+    60.21389,
+    20.0525,
+    60.21389
+],
+  "geometry": {"coordinates":[20.0525,60.21389],"type":"Point"}
+}

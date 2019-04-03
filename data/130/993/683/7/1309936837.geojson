@@ -1,0 +1,76 @@
+{
+  "id": 1309936837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94764,59.9501,20.94764,59.9501",
+    "geom:latitude":59.9501,
+    "geom:longitude":20.94764,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"318.0",
+    "gn:asciiname":"Hellsoe",
+    "gn:cc2":"FI",
+    "gn:country_code":"AX",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":658235,
+    "gn:latitude":59.9501,
+    "gn:longitude":20.94764,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Hells\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hels\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907199659,
+        136253047,
+        1159321503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658235
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"92444b0e1b0b3961e8eb83ac8394c370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321503,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907199659,
+            "locality_id":1309936837,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309936837,
+    "wof:lastmodified":1537585119,
+    "wof:name":"Hellsoe",
+    "wof:parent_id":907199659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94764,
+    59.9501,
+    20.94764,
+    59.9501
+],
+  "geometry": {"coordinates":[20.94764,59.9501],"type":"Point"}
+}

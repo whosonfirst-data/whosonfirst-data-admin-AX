@@ -1,0 +1,70 @@
+{
+  "id": 1310535791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.76446,60.34141,20.76446,60.34141",
+    "geom:latitude":60.34141,
+    "geom:longitude":20.76446,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"295.0",
+    "gn:asciiname":"Enklinge",
+    "gn:country_code":"AX",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660245,
+    "gn:latitude":60.34141,
+    "gn:longitude":20.76446,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Enklinge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907199697,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660245
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"a9fee129fbd6e7872cfb6f43bd13954d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907199697,
+            "locality_id":1310535791,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310535791,
+    "wof:lastmodified":1536872203,
+    "wof:name":"Enklinge",
+    "wof:parent_id":907199697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.76446,
+    60.34141,
+    20.76446,
+    60.34141
+],
+  "geometry": {"coordinates":[20.76446,60.34141],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209035621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15806,60.20333,20.15806,60.20333",
+    "geom:latitude":60.20333,
+    "geom:longitude":20.15806,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"771.0",
+    "gn:asciiname":"Norrdal",
+    "gn:country_code":"AX",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":845899,
+    "gn:latitude":60.20333,
+    "gn:longitude":20.15806,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Norrdal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":845899
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"3bb33b18506f772eed8afa17f3246a6c",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632789,
+            "locality_id":1209035621
+        }
+    ],
+    "wof:id":1209035621,
+    "wof:lastmodified":1536299710,
+    "wof:name":"Norrdal",
+    "wof:parent_id":85632789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15806,
+    60.20333,
+    20.15806,
+    60.20333
+],
+  "geometry": {"coordinates":[20.15806,60.20333],"type":"Point"}
+}

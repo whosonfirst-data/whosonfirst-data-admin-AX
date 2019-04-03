@@ -1,0 +1,70 @@
+{
+  "id": 1293818473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02083,60.32278,20.02083,60.32278",
+    "geom:latitude":60.32278,
+    "geom:longitude":20.02083,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"736.0",
+    "gn:asciiname":"Naes",
+    "gn:country_code":"AX",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":850236,
+    "gn:latitude":60.32278,
+    "gn:longitude":20.02083,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"N\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198535,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":850236
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"f47231dbbb88f8badccc26e8c98946bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198535,
+            "locality_id":1293818473,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293818473,
+    "wof:lastmodified":1536806750,
+    "wof:name":"Naes",
+    "wof:parent_id":907198535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02083,
+    60.32278,
+    20.02083,
+    60.32278
+],
+  "geometry": {"coordinates":[20.02083,60.32278],"type":"Point"}
+}

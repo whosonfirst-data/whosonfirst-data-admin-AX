@@ -1,0 +1,72 @@
+{
+  "id": 1226276815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83,60.12583,19.83,60.12583",
+    "geom:latitude":60.12583,
+    "geom:longitude":19.83,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"170.0",
+    "gn:asciiname":"Nybacka",
+    "gn:country_code":"AX",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336435,
+    "gn:latitude":60.12583,
+    "gn:longitude":19.83,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Nybacka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198489,
+        136253047,
+        1159321611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336435
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"e108e2f651b79ddc9a928239472e114d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1159321611,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198489,
+            "locality_id":1226276815,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226276815,
+    "wof:lastmodified":1536888413,
+    "wof:name":"Nybacka",
+    "wof:parent_id":907198489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83,
+    60.12583000000001,
+    19.83,
+    60.12583000000001
+],
+  "geometry": {"coordinates":[19.83,60.12583000000001],"type":"Point"}
+}

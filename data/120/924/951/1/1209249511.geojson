@@ -1,0 +1,62 @@
+{
+  "id": 1209249511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83361,60.18472,19.83361,60.18472",
+    "geom:latitude":60.18472,
+    "geom:longitude":19.83361,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"76.0",
+    "gn:asciiname":"OEstergard",
+    "gn:country_code":"AX",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3336498,
+    "gn:latitude":60.18472,
+    "gn:longitude":19.83361,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"\u00d6sterg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3336498
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"306daf2c53d4946835654f854a8eb32b",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632789,
+            "locality_id":1209249511
+        }
+    ],
+    "wof:id":1209249511,
+    "wof:lastmodified":1536293050,
+    "wof:name":"OEstergard",
+    "wof:parent_id":85632789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83361,
+    60.18472,
+    19.83361,
+    60.18472
+],
+  "geometry": {"coordinates":[19.83361,60.18472],"type":"Point"}
+}

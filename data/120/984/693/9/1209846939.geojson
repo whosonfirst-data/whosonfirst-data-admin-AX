@@ -1,0 +1,70 @@
+{
+  "id": 1209846939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91861,60.34111,20.91861,60.34111",
+    "geom:latitude":60.34111,
+    "geom:longitude":20.91861,
+    "gn:admin1_code":"213",
+    "gn:admin2_code":"295.0",
+    "gn:asciiname":"Vaesternaes",
+    "gn:country_code":"AX",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":849974,
+    "gn:latitude":60.34111,
+    "gn:longitude":20.91861,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"V\u00e4stern\u00e4s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907199697,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":849974
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"343cc61df031db8bb8e485ebad23f42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907199697,
+            "locality_id":1209846939,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209846939,
+    "wof:lastmodified":1536390213,
+    "wof:name":"Vaesternaes",
+    "wof:parent_id":907199697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91861,
+    60.34111,
+    20.91861,
+    60.34111
+],
+  "geometry": {"coordinates":[20.91861,60.34111],"type":"Point"}
+}

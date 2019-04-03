@@ -1,0 +1,63 @@
+{
+  "id": 1209243551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23028,60.20889,20.23028,60.20889",
+    "geom:latitude":60.20889,
+    "geom:longitude":20.23028,
+    "gn:admin1_code":"212",
+    "gn:admin2_code":"771.0",
+    "gn:asciiname":"Bomarsund",
+    "gn:country_code":"AX",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":660567,
+    "gn:latitude":60.20889,
+    "gn:longitude":20.23028,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Bomarsund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Mariehamn",
+    "iso:country":"AX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660567,
+        "wk:page":"Bomarsund%2C_%C3%85land"
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"eaf94358bac7d40614164f40f99062c5",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632789,
+            "locality_id":1209243551
+        }
+    ],
+    "wof:id":1209243551,
+    "wof:lastmodified":1537486501,
+    "wof:name":"Bomarsund",
+    "wof:parent_id":85632789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23028,
+    60.20889,
+    20.23028,
+    60.20889
+],
+  "geometry": {"coordinates":[20.23028,60.20889],"type":"Point"}
+}
