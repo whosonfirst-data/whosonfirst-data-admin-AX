@@ -19,22 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Sund"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0633\u0646\u062f"
-    ],
-    "name:baq_x_preferred":[
-        "Sund"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0989\u09a8\u09cd\u09a1"
     ],
-    "name:chi_x_preferred":[
-        "\u677e\u5fb7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sund"
     ],
     "name:dan_x_preferred":[
@@ -43,8 +34,8 @@
     "name:deu_x_preferred":[
         "Sund"
     ],
-    "name:dut_x_preferred":[
-        "Sund"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Sund"
@@ -55,6 +46,9 @@
     "name:est_x_preferred":[
         "Sundi vald"
     ],
+    "name:eus_x_preferred":[
+        "Sund"
+    ],
     "name:fao_x_preferred":[
         "Sund"
     ],
@@ -63,15 +57,6 @@
     ],
     "name:fra_x_preferred":[
         "Sund"
-    ],
-    "name:fre_x_preferred":[
-        "Sund"
-    ],
-    "name:ger_x_preferred":[
-        "Sund"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03cd\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0a82\u0aa6"
@@ -106,10 +91,13 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u0902\u0926"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sund"
     ],
     "name:nds_x_preferred":[
+        "Sund"
+    ],
+    "name:nld_x_preferred":[
         "Sund"
     ],
     "name:nob_x_preferred":[
@@ -124,9 +112,6 @@
     "name:ron_x_preferred":[
         "Sund"
     ],
-    "name:rum_x_preferred":[
-        "Sund"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043d\u0434"
     ],
@@ -137,6 +122,9 @@
         "\u0dc3\u0db1\u0dca\u0da9\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Sund"
+    ],
+    "name:sqi_x_preferred":[
         "Sund"
     ],
     "name:swe_x_preferred":[
@@ -222,7 +210,7 @@
         }
     ],
     "wof:id":1125873205,
-    "wof:lastmodified":1513898752,
+    "wof:lastmodified":1561829911,
     "wof:name":"Sund",
     "wof:parent_id":907198499,
     "wof:placetype":"locality",

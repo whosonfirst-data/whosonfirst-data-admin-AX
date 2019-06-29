@@ -19,20 +19,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "K\u00f6kar"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0627\u0631"
     ],
-    "name:baq_x_preferred":[
-        "K\u00f6kar"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u0995\u09be\u09b0"
-    ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5361\u723e"
     ],
     "name:dan_x_preferred":[
         "K\u00f6kar"
@@ -40,8 +31,8 @@
     "name:deu_x_preferred":[
         "K\u00f6kar"
     ],
-    "name:dut_x_preferred":[
-        "K\u00f6kar"
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03ba\u03b1\u03c1"
     ],
     "name:eng_x_preferred":[
         "K\u00f6kar"
@@ -51,6 +42,9 @@
     ],
     "name:est_x_preferred":[
         "K\u00f6kari vald"
+    ],
+    "name:eus_x_preferred":[
+        "K\u00f6kar"
     ],
     "name:fao_x_preferred":[
         "K\u00f6kar"
@@ -67,17 +61,8 @@
     "name:fra_x_preferred":[
         "K\u00f6kar"
     ],
-    "name:fre_x_preferred":[
-        "K\u00f6kar"
-    ],
-    "name:ger_x_preferred":[
-        "K\u00f6kar"
-    ],
     "name:glg_x_preferred":[
         "K\u00f6kar"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03ba\u03b1\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a95\u0ab0"
@@ -112,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0915\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kokar"
+    ],
+    "name:nld_x_preferred":[
+        "K\u00f6kar"
     ],
     "name:nno_x_preferred":[
         "K\u00f6kar"
@@ -130,9 +118,6 @@
     "name:ron_x_preferred":[
         "K\u00f6kar"
     ],
-    "name:rum_x_preferred":[
-        "K\u00f6kar"
-    ],
     "name:rus_x_preferred":[
         "\u0427\u0451\u043a\u0430\u0440"
     ],
@@ -143,6 +128,9 @@
         "\u0d9a\u0ddd\u0d9a\u0dbb\u0dca"
     ],
     "name:spa_x_preferred":[
+        "K\u00f6kar"
+    ],
+    "name:sqi_x_preferred":[
         "K\u00f6kar"
     ],
     "name:swe_x_preferred":[
@@ -168,6 +156,9 @@
     ],
     "name:vie_x_preferred":[
         "Kokar"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5361\u723e"
     ],
     "qs_pg:aaroncc":"AX",
     "qs_pg:gn_country":"AX",
@@ -224,7 +215,7 @@
         }
     ],
     "wof:id":1125883091,
-    "wof:lastmodified":1513898746,
+    "wof:lastmodified":1561829911,
     "wof:name":"K\u00f6kar",
     "wof:parent_id":907199659,
     "wof:placetype":"locality",
