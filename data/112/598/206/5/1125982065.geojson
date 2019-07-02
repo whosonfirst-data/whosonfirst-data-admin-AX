@@ -19,26 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "V\u00e5rd\u00f6"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u062f\u0648"
-    ],
-    "name:baq_x_preferred":[
-        "V\u00e5rd\u00f6"
     ],
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u09a6"
     ],
-    "name:chi_x_preferred":[
-        "\u6c83\u5c14\u5fb7"
-    ],
     "name:dan_x_preferred":[
         "V\u00e5rd\u00f6"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "V\u00e5rd\u00f6"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03c1\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "V\u00e5rd\u00f6"
@@ -49,20 +43,17 @@
     "name:est_x_preferred":[
         "V\u00e5rd\u00f6 vald"
     ],
+    "name:eus_x_preferred":[
+        "V\u00e5rd\u00f6"
+    ],
     "name:fao_x_preferred":[
         "V\u00e5rd\u00f6"
     ],
     "name:fin_x_preferred":[
         "V\u00e5rd\u00f6"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "V\u00e5rd\u00f6"
-    ],
-    "name:ger_x_preferred":[
-        "V\u00e5rd\u00f6"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03ac\u03c1\u03bd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abe\u0ab0\u0acd\u0aa1\u0acb"
@@ -94,7 +85,10 @@
     "name:mar_x_preferred":[
         "\u0935\u0930\u094d\u0926\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "V\u00e5rd\u00f6"
+    ],
+    "name:nld_x_preferred":[
         "V\u00e5rd\u00f6"
     ],
     "name:nob_x_preferred":[
@@ -106,7 +100,7 @@
     "name:por_x_preferred":[
         "V\u00e5rd\u00f6"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "V\u00e5rd\u00f6"
     ],
     "name:rus_x_preferred":[
@@ -122,6 +116,9 @@
         "V\u00e5rd\u00f6"
     ],
     "name:spa_x_preferred":[
+        "V\u00e5rd\u00f6"
+    ],
+    "name:sqi_x_preferred":[
         "V\u00e5rd\u00f6"
     ],
     "name:swe_x_preferred":[
@@ -147,6 +144,9 @@
     ],
     "name:vie_x_preferred":[
         "Vardo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u5c14\u5fb7"
     ],
     "qs_pg:aaroncc":"AX",
     "qs_pg:gn_country":"AX",
@@ -203,7 +203,7 @@
         }
     ],
     "wof:id":1125982065,
-    "wof:lastmodified":1513898753,
+    "wof:lastmodified":1561829911,
     "wof:name":"V\u00e5rd\u00f6",
     "wof:parent_id":907198495,
     "wof:placetype":"locality",

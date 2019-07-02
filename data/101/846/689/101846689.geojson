@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
-    "geom:area_square_m":457462.581309,
+    "geom:area_square_m":457462.58131,
     "geom:bbox":"19.7218769226,60.2142581482,19.743795464,60.220858179",
     "geom:latitude":60.217563,
     "geom:longitude":19.734858,
@@ -17,20 +17,11 @@
     "mps:longitude":19.734859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Hammarland"
-    ],
     "name:ara_x_preferred":[
         "\u0647\u0627\u0645\u0627\u0631\u0644\u0627\u0646\u062f"
     ],
-    "name:baq_x_preferred":[
-        "Hammarland"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09cd\u09af\u09be\u09ae\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
-    ],
-    "name:chi_x_preferred":[
-        "\u54c8\u99ac\u862d"
     ],
     "name:dan_x_preferred":[
         "Hammarland"
@@ -38,8 +29,8 @@
     "name:deu_x_preferred":[
         "Hammarland"
     ],
-    "name:dut_x_preferred":[
-        "Hammarland"
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03bc\u03b1\u03c1\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Hammarland"
@@ -49,6 +40,9 @@
     ],
     "name:est_x_preferred":[
         "Hammarlandi vald"
+    ],
+    "name:eus_x_preferred":[
+        "Hammarland"
     ],
     "name:fao_x_preferred":[
         "Hammarland"
@@ -61,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Hammarland"
-    ],
-    "name:fre_x_preferred":[
-        "Hammarland"
-    ],
-    "name:ger_x_preferred":[
-        "Hammarland"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ac\u03bc\u03b1\u03c1\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac7\u0aae\u0ab0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
@@ -101,7 +86,7 @@
     "name:mar_x_preferred":[
         "\u0939\u0945\u092e\u0930\u0932\u0901\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hammarland"
     ],
     "name:nld_x_preferred":[
@@ -119,9 +104,6 @@
     "name:ron_x_preferred":[
         "Hammarland"
     ],
-    "name:rum_x_preferred":[
-        "Hammarland"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043c\u043c\u0430\u0440\u043b\u0430\u043d\u0434"
     ],
@@ -132,6 +114,9 @@
         "\u0dc4\u0dd0\u0db8\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0da9\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Hammarland"
+    ],
+    "name:sqi_x_preferred":[
         "Hammarland"
     ],
     "name:swe_x_preferred":[
@@ -160,6 +145,9 @@
     ],
     "name:vie_x_preferred":[
         "Hammarland"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u99ac\u862d"
     ],
     "qs:a0":"\u00c5land",
     "qs:a1":"*",
@@ -208,7 +196,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1513898744,
+    "wof:lastmodified":1561829910,
     "wof:name":"Hammarland",
     "wof:parent_id":907198477,
     "wof:placetype":"locality",
