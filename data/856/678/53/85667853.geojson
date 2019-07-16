@@ -25,6 +25,15 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Geta"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09c7\u099f\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Geta"
     ],
@@ -33,6 +42,9 @@
     ],
     "name:deu_x_preferred":[
         "Geta"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ad\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Geta"
@@ -49,6 +61,9 @@
     "name:fao_x_preferred":[
         "Geta"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Geta"
     ],
@@ -58,11 +73,71 @@
     "name:fra_x_preferred":[
         "Geta"
     ],
+    "name:glg_x_preferred":[
+        "Geta"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0ac7\u0aa4\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0947\u091f\u093e"
+    ],
     "name:ind_x_preferred":[
+        "Geta"
+    ],
+    "name:ita_x_preferred":[
+        "Geta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b2\u30bf"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cc6\u0c9f\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uac8c\ud0c0"
+    ],
+    "name:lav_x_preferred":[
+        "Geta"
+    ],
+    "name:lit_x_preferred":[
+        "Geta"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u0947\u0924\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Geta"
+    ],
+    "name:nld_x_preferred":[
+        "Geta"
+    ],
+    "name:nob_x_preferred":[
+        "Geta"
+    ],
+    "name:pol_x_preferred":[
+        "Geta"
+    ],
+    "name:por_x_preferred":[
+        "Geta"
+    ],
+    "name:ron_x_preferred":[
         "Geta"
     ],
     "name:rus_x_preferred":[
         "\u0415\u0442\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Geta"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dd9\u0da7\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Geta"
+    ],
+    "name:sqi_x_preferred":[
+        "Geta"
     ],
     "name:swe_x_preferred":[
         "Geta"
@@ -70,8 +145,32 @@
     "name:swe_x_variant":[
         "Geta Kommun"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc6\u0b9f\u0bcd\u0b9f"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c46\u0c1f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e15\u0e49\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Geta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06cc\u062a\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Geta"
+    ],
     "name:zho_x_preferred":[
         "\u84cb\u5854"
+    ],
+    "name:zho_x_variant":[
+        "\u8036\u5854"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ALD",
@@ -194,7 +293,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1553550296,
+    "wof:lastmodified":1563277979,
     "wof:name":"Geta",
     "wof:parent_id":85632789,
     "wof:placetype":"region",
