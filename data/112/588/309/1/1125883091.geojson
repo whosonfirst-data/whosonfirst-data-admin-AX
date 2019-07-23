@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0627\u0631"
     ],
+    "name:ast_x_preferred":[
+        "K\u00f6kar"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u0995\u09be\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u00f6kar"
+    ],
+    "name:cym_x_preferred":[
+        "K\u00f6kar"
     ],
     "name:dan_x_preferred":[
         "K\u00f6kar"
@@ -57,6 +66,9 @@
     ],
     "name:fin_x_preferred":[
         "K\u00f6\u00f6kari"
+    ],
+    "name:fin_x_variant":[
+        "K\u00f6kar"
     ],
     "name:fra_x_preferred":[
         "K\u00f6kar"
@@ -160,6 +172,9 @@
     "name:zho_x_preferred":[
         "\u79d1\u5361\u723e"
     ],
+    "name:zho_x_variant":[
+        "\u96ea\u5361\u5c14"
+    ],
     "qs_pg:aaroncc":"AX",
     "qs_pg:gn_country":"AX",
     "qs_pg:gn_fcode":"PPLA",
@@ -215,7 +230,7 @@
         }
     ],
     "wof:id":1125883091,
-    "wof:lastmodified":1561829911,
+    "wof:lastmodified":1563278014,
     "wof:name":"K\u00f6kar",
     "wof:parent_id":907199659,
     "wof:placetype":"locality",

@@ -22,10 +22,16 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u0633\u062a\u0631\u0648\u0645"
     ],
+    "name:ast_x_preferred":[
+        "Finstr\u00f6m"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09bf\u0987\u09b8\u09cd\u099f\u09cd\u09b0\u09ae"
     ],
     "name:cat_x_preferred":[
+        "Finstr\u00f6m"
+    ],
+    "name:ceb_x_preferred":[
         "Finstr\u00f6m"
     ],
     "name:dan_x_preferred":[
@@ -52,10 +58,16 @@
     "name:fao_x_preferred":[
         "Finstr\u00f6m"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0646\u0633\u062a\u0631\u0648\u0645"
+    ],
     "name:fin_x_preferred":[
         "Finstr\u00f6m"
     ],
     "name:fra_x_preferred":[
+        "Finstr\u00f6m"
+    ],
+    "name:glg_x_preferred":[
         "Finstr\u00f6m"
     ],
     "name:guj_x_preferred":[
@@ -151,6 +163,9 @@
     "name:zho_x_preferred":[
         "\u82ac\u65af\u7279\u9686"
     ],
+    "name:zho_x_variant":[
+        "\u82ac\u65af\u7279\u4f26"
+    ],
     "qs_pg:aaroncc":"AX",
     "qs_pg:gn_country":"AX",
     "qs_pg:gn_fcode":"PPLA",
@@ -207,7 +222,7 @@
         }
     ],
     "wof:id":1125981925,
-    "wof:lastmodified":1561829911,
+    "wof:lastmodified":1563278018,
     "wof:name":"Finstr\u00f6m",
     "wof:parent_id":907198529,
     "wof:placetype":"locality",

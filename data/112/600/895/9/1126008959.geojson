@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u062a\u0648\u0646\u063a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Sottunga"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09a4\u09cd\u09af\u09c1\u0999\u09cd\u0997\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Sottunga"
     ],
     "name:ces_x_preferred":[
         "Sottunga"
@@ -52,10 +58,16 @@
     "name:fao_x_preferred":[
         "Sottunga"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062a\u0648\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Sottunga"
     ],
     "name:fra_x_preferred":[
+        "Sottunga"
+    ],
+    "name:glg_x_preferred":[
         "Sottunga"
     ],
     "name:guj_x_preferred":[
@@ -189,7 +201,7 @@
         }
     ],
     "wof:id":1126008959,
-    "wof:lastmodified":1561829911,
+    "wof:lastmodified":1563278019,
     "wof:name":"Sottunga",
     "wof:parent_id":907198465,
     "wof:placetype":"locality",

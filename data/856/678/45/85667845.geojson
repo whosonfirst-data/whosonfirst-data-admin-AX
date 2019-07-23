@@ -25,6 +25,15 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0645\u0627\u0631\u0644\u0627\u0646\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Hammarland"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09cd\u09af\u09be\u09ae\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
     "name:ceb_x_preferred":[
         "Hammarland"
     ],
@@ -33,6 +42,9 @@
     ],
     "name:deu_x_preferred":[
         "Hammarland"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03bc\u03b1\u03c1\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Hammarland"
@@ -58,11 +70,38 @@
     "name:fra_x_preferred":[
         "Hammarland"
     ],
+    "name:glg_x_preferred":[
+        "Hammarland"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0ac7\u0aae\u0ab0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0948\u092e\u0930\u0932\u0948\u0902\u0921"
+    ],
     "name:ind_x_preferred":[
         "Hammarland"
     ],
     "name:ita_x_preferred":[
         "Hammarland"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30f3\u30de\u30eb\u30e9\u30f3\u30c9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0cae\u0ccd\u0cae\u0cb0\u0ccd\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud574\uba38\ub79c\ub4dc"
+    ],
+    "name:lav_x_preferred":[
+        "Hammarlande"
+    ],
+    "name:lit_x_preferred":[
+        "Hamarlendas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u0945\u092e\u0930\u0932\u0901\u0921"
     ],
     "name:msa_x_preferred":[
         "Hammarland"
@@ -70,10 +109,16 @@
     "name:nld_x_preferred":[
         "Hammarland"
     ],
+    "name:nob_x_preferred":[
+        "Hammarland"
+    ],
     "name:nor_x_preferred":[
         "Hammarland"
     ],
     "name:pol_x_preferred":[
+        "Hammarland"
+    ],
+    "name:por_x_preferred":[
         "Hammarland"
     ],
     "name:ron_x_preferred":[
@@ -84,6 +129,9 @@
     ],
     "name:sco_x_preferred":[
         "Hammarland"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0dd0\u0db8\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0da9\u0dca"
     ],
     "name:spa_x_preferred":[
         "Hammarland"
@@ -97,8 +145,23 @@
     "name:swe_x_variant":[
         "Hammarlands Kommun"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bbe\u0bae\u0bcd\u0bae\u0bb0\u0bcd\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c3e\u0c2e\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e31\u0e21\u0e21\u0e32\u0e23\u0e4c\u0e25\u0e31\u0e19\u0e14\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Hammarland"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043c\u043c\u0430\u0440\u043b\u0430\u043d\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0645\u0645\u0627\u0631\u0644\u0627\u0646\u062f"
     ],
     "name:vie_x_preferred":[
         "Hammarland"
@@ -227,7 +290,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1553550296,
+    "wof:lastmodified":1563277976,
     "wof:name":"Hammarland",
     "wof:parent_id":85632789,
     "wof:placetype":"region",
