@@ -28,6 +28,9 @@
     "name:bpy_x_preferred":[
         "\u09b8\u09c1\u09a8\u09cd\u09a1"
     ],
+    "name:ceb_x_preferred":[
+        "Sund"
+    ],
     "name:dan_x_preferred":[
         "Sund"
     ],
@@ -35,6 +38,9 @@
         "Sund"
     ],
     "name:eng_x_preferred":[
+        "Sund"
+    ],
+    "name:eus_x_preferred":[
         "Sund"
     ],
     "name:fao_x_preferred":[
@@ -50,6 +56,9 @@
         "Sund"
     ],
     "name:hrv_x_preferred":[
+        "Sund"
+    ],
+    "name:hun_x_preferred":[
         "Sund"
     ],
     "name:isl_x_preferred":[
@@ -210,7 +219,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1553550296,
+    "wof:lastmodified":1564124874,
     "wof:name":"Sund",
     "wof:parent_id":85632789,
     "wof:placetype":"region",
