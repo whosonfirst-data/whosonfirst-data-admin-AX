@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KM"
+    ],
     "lbl:latitude":60.264153,
     "lbl:longitude":20.80418,
     "mps:latitude":60.264153,
@@ -287,16 +290,13 @@
         }
     ],
     "wof:id":85667893,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1563277975,
+    "wof:lastmodified":1565652485,
     "wof:name":"Kumlinge",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

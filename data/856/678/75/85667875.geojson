@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LE"
+    ],
     "lbl:latitude":60.040916,
     "lbl:longitude":20.156073,
     "mps:latitude":60.040916,
@@ -287,16 +290,13 @@
         }
     ],
     "wof:id":85667875,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1563277977,
+    "wof:lastmodified":1565652485,
     "wof:name":"Lemland",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

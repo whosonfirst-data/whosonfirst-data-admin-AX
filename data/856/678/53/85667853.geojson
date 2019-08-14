@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GT"
+    ],
     "lbl:latitude":60.366053,
     "lbl:longitude":19.852758,
     "mps:latitude":60.366053,
@@ -284,16 +287,13 @@
         }
     ],
     "wof:id":85667853,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1563277979,
+    "wof:lastmodified":1565652485,
     "wof:name":"Geta",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

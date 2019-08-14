@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BR"
+    ],
     "lbl:latitude":60.458222,
     "lbl:longitude":20.939576,
     "mps:latitude":60.458222,
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85667899,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1563277980,
+    "wof:lastmodified":1565652485,
     "wof:name":"Br\u00e4nd\u00f6",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

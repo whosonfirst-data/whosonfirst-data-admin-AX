@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HM"
+    ],
     "lbl:latitude":60.197942,
     "lbl:longitude":19.73918,
     "mps:latitude":60.197942,
@@ -281,16 +284,13 @@
         }
     ],
     "wof:id":85667845,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1563277976,
+    "wof:lastmodified":1565652485,
     "wof:name":"Hammarland",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

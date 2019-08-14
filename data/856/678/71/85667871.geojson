@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MH"
+    ],
     "lbl:latitude":60.092427,
     "lbl:longitude":19.938472,
     "mps:latitude":60.092427,
@@ -368,16 +371,13 @@
         }
     ],
     "wof:id":85667871,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1564124876,
+    "wof:lastmodified":1565652485,
     "wof:name":"Mariehamn",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

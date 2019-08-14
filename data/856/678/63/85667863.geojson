@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SV"
+    ],
     "lbl:latitude":60.32186,
     "lbl:longitude":20.090962,
     "mps:latitude":60.32186,
@@ -284,16 +287,13 @@
         }
     ],
     "wof:id":85667863,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1563277980,
+    "wof:lastmodified":1565652485,
     "wof:name":"Saltvik",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

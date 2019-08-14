@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LU"
+    ],
     "lbl:latitude":60.097557,
     "lbl:longitude":20.237849,
     "mps:latitude":60.097557,
@@ -284,16 +287,13 @@
         }
     ],
     "wof:id":85667881,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1563277978,
+    "wof:lastmodified":1565652485,
     "wof:name":"Lumparland",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KK"
+    ],
     "lbl:latitude":59.942029,
     "lbl:longitude":20.956404,
     "mps:latitude":59.942029,
@@ -281,16 +284,13 @@
         }
     ],
     "wof:id":85667903,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1563277983,
+    "wof:lastmodified":1565652486,
     "wof:name":"K\u00f6kar",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

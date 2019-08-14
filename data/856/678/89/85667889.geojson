@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ST"
+    ],
     "lbl:latitude":60.130764,
     "lbl:longitude":20.662347,
     "mps:latitude":60.130764,
@@ -287,16 +290,13 @@
         }
     ],
     "wof:id":85667889,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1563277976,
+    "wof:lastmodified":1565652485,
     "wof:name":"Sottunga",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

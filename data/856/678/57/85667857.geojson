@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FG"
+    ],
     "lbl:latitude":60.00003,
     "lbl:longitude":20.345762,
     "mps:latitude":60.00003,
@@ -279,16 +282,13 @@
         }
     ],
     "wof:id":85667857,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1563277973,
+    "wof:lastmodified":1565652484,
     "wof:name":"F\u00f6gl\u00f6",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

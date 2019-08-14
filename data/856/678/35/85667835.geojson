@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FN"
+    ],
     "lbl:latitude":60.247758,
     "lbl:longitude":19.922107,
     "mps:latitude":60.247758,
@@ -290,16 +293,13 @@
         }
     ],
     "wof:id":85667835,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1563277974,
+    "wof:lastmodified":1565652484,
     "wof:name":"Finstr\u00f6m",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

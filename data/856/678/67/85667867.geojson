@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":60.202898,
     "lbl:longitude":20.147843,
     "mps:latitude":60.202898,
@@ -210,16 +213,13 @@
         }
     ],
     "wof:id":85667867,
-    "wof:lang":[
-        "swe"
-    ],
     "wof:lang_x_official":[
         "swe"
     ],
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1564124874,
+    "wof:lastmodified":1565652485,
     "wof:name":"Sund",
     "wof:parent_id":85632789,
     "wof:placetype":"region",
