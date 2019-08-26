@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000379,
-    "geom:area_square_m":2327019.583917,
+    "geom:area_square_m":2327019.583918,
     "geom:bbox":"19.5384023315,60.2111020166,19.5738213559,60.2397491655",
     "geom:latitude":60.224007,
     "geom:longitude":19.555682,
     "iso:country":"AX",
     "lbl:latitude":60.22352,
     "lbl:longitude":19.552731,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.22352,
     "mps:longitude":19.55273,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Storby",
         "Per St\u00f6rby"
@@ -34,7 +37,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632789,
         102191581,
@@ -46,7 +49,7 @@
         "fct:id":"03638576-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3041675,
         "gp:id":573371,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"AX",
     "wof:geomhash":"0ec40328a772876013b938056b2acfdf",
@@ -65,7 +68,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1509998556,
+    "wof:lastmodified":1566603668,
     "wof:name":"Storby",
     "wof:parent_id":907198473,
     "wof:placetype":"locality",

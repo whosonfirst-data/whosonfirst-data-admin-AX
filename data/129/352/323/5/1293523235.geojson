@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Mariehamn",
     "iso:country":"AX",
+    "lbl:bbox":"20.05833,60.17861,20.09833,60.21861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632789,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293523235,
-    "wof:lastmodified":1536735641,
+    "wof:lastmodified":1566603655,
     "wof:name":"Arnelund",
     "wof:parent_id":907198499,
     "wof:placetype":"locality",

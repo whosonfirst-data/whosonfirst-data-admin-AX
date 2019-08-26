@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Mariehamn",
     "iso:country":"AX",
+    "lbl:bbox":"19.96333,60.19667,20.00333,60.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00d6mnes",
         "\u00c4mn\u00e4s"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276159709,
-    "wof:lastmodified":1537585122,
+    "wof:lastmodified":1566603659,
     "wof:name":"Emnas",
     "wof:parent_id":907198529,
     "wof:placetype":"locality",

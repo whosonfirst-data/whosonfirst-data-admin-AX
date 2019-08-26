@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":60.092427,
     "lbl:longitude":19.938472,
+    "lbl:min_zoom":8.0,
     "mps:latitude":60.092427,
     "mps:longitude":19.938472,
     "mz:hierarchy_label":1,
@@ -244,7 +245,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0456\u0454\u0433\u0430\u043c\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marieham"
     ],
     "name:urd_x_preferred":[
@@ -331,9 +332,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-12-31",
+    "src:population_date":"2008-12-31",
     "statoids:area_km":"12",
     "statoids:area_mi":"5",
     "statoids:as_of_date":"2008-12-31",
@@ -357,7 +358,7 @@
         "gn:id":3041733,
         "gp:id":12590640,
         "hasc:id":"AX.MH",
-        "qs:id":1116990
+        "qs_pg:id":1116990
     },
     "wof:country":"AX",
     "wof:geomhash":"f018e28d197e5dc722cc7e66ae5d3d4d",
@@ -377,11 +378,10 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1565652485,
+    "wof:lastmodified":1566603655,
     "wof:name":"Mariehamn",
     "wof:parent_id":85632789,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":11005,
     "wof:population_rank":6,

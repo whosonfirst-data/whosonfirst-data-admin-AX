@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Mariehamn",
     "iso:country":"AX",
+    "lbl:bbox":"19.84667,60.13,19.88667,60.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sedersunda",
         "S\u00f6dersunda"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344191019,
-    "wof:lastmodified":1537585121,
+    "wof:lastmodified":1566603652,
     "wof:name":"Soedersunda",
     "wof:parent_id":907198489,
     "wof:placetype":"locality",
