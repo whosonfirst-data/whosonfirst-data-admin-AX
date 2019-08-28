@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Mariehamn",
     "iso:country":"AX",
+    "lbl:bbox":"20.36306,60.20389,20.40306,60.24389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632789,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344087321,
-    "wof:lastmodified":1536835919,
+    "wof:lastmodified":1566603651,
     "wof:name":"Signedal",
     "wof:parent_id":907198495,
     "wof:placetype":"locality",

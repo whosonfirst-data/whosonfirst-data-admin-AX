@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Mariehamn",
     "iso:country":"AX",
+    "lbl:bbox":"19.64111,60.2025,19.68111,60.2425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632789,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327065047,
-    "wof:lastmodified":1536713645,
+    "wof:lastmodified":1566603648,
     "wof:name":"Storhaga",
     "wof:parent_id":907198473,
     "wof:placetype":"locality",

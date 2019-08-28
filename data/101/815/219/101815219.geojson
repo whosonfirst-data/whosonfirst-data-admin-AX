@@ -9,16 +9,19 @@
     "geom:bbox":"19.9649573133,60.2172244629,20.0032049369,60.2379309075",
     "geom:latitude":60.229823,
     "geom:longitude":19.983285,
-    "gn:gn_country":"AX",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AX",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AX",
     "lbl:latitude":60.225022,
     "lbl:longitude":19.981691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.225022,
     "mps:longitude":19.981691,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Godby"
     ],
@@ -56,7 +59,7 @@
     "qs_pg:woe_id":564746,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632789,
         85667835,
@@ -69,7 +72,6 @@
         "fct:id":"03638616-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":659823,
         "gp:id":564746,
-        "qs:id":40700,
         "qs_pg:id":40700
     },
     "wof:country":"AX",
@@ -89,7 +91,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1534379234,
+    "wof:lastmodified":1566603668,
     "wof:name":"Godby",
     "wof:parent_id":907198529,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Mariehamn",
     "iso:country":"AX",
+    "lbl:bbox":"19.97139,60.19167,20.01139,60.23167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632789
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209141707,
-    "wof:lastmodified":1536296483,
+    "wof:lastmodified":1566603662,
     "wof:name":"Gibboele",
     "wof:parent_id":85632789,
     "wof:placetype":"locality",

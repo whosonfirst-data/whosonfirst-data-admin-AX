@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Mariehamn",
     "iso:country":"AX",
+    "lbl:bbox":"20.22433,60.10181,20.26433,60.14181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632789,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327462607,
-    "wof:lastmodified":1536636070,
+    "wof:lastmodified":1566603649,
     "wof:name":"Lumparby",
     "wof:parent_id":907198491,
     "wof:placetype":"locality",
