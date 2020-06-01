@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001472,
     "geom:area_square_m":9069626.092941,
-    "geom:bbox":"19.9228330749,60.072483996,19.9645828751,60.1413482257",
+    "geom:bbox":"19.92283307494495,60.07248399601548,19.96458287511877,60.14134822566325",
     "geom:latitude":60.10443,
     "geom:longitude":19.941025,
     "gn:population":10682,
@@ -80,9 +80,6 @@
     "name:ell_x_variant":[
         "\u039c\u03ac\u03c1\u03b9\u03b5\u03c7\u03b1\u03bc\u03bd"
     ],
-    "name:eng_x_colloquial":[
-        ""
-    ],
     "name:eng_x_preferred":[
         "Mariehamn"
     ],
@@ -102,16 +99,16 @@
         "\u0645\u0627\u0631\u06cc\u0647\u0627\u0645"
     ],
     "name:fin_x_preferred":[
-        "Marieham"
+        "Mariehamn"
     ],
     "name:fin_x_variant":[
         "Maariahaminassa",
         "Mariankhamina",
         "Mariehameena",
-        "Mariehamn",
         "Mariyekhamn",
         "Marrianhamina",
-        "Maarianhamina"
+        "Maarianhamina",
+        "Marieham"
     ],
     "name:fra_x_preferred":[
         "Mariehamn"
@@ -418,11 +415,11 @@
     "wd:population":11445,
     "wd:wordcount":620,
     "wof:belongsto":[
-        85632789,
-        85667871,
         102191581,
+        85632789,
+        136253047,
         907199729,
-        136253047
+        85667871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -450,7 +447,7 @@
     "wof:lang":[
         "swe"
     ],
-    "wof:lastmodified":1566603668,
+    "wof:lastmodified":1591032883,
     "wof:megacity":0,
     "wof:name":"Mariehamn",
     "wof:parent_id":907199729,
