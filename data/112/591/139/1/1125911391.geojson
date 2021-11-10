@@ -83,6 +83,9 @@
         "Jomala"
     ],
     "name:jpn_x_preferred":[
+        "\u30e8\u30de\u30e9"
+    ],
+    "name:jpn_x_variant":[
         "\u30e6\u30fc\u30de\u30e9"
     ],
     "name:kan_x_preferred":[
@@ -157,6 +160,12 @@
     "name:vie_x_preferred":[
         "Jomala"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u7ea6\u9a6c\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u55ac\u99ac\u62c9"
+    ],
     "name:zho_x_preferred":[
         "\u7d04\u99ac\u62c9"
     ],
@@ -215,7 +224,7 @@
         }
     ],
     "wof:id":1125911391,
-    "wof:lastmodified":1566603671,
+    "wof:lastmodified":1636495471,
     "wof:name":"Jomala",
     "wof:parent_id":907198489,
     "wof:placetype":"locality",
