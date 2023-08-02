@@ -67,6 +67,9 @@
     "name:fra_x_preferred":[
         "Geta"
     ],
+    "name:gle_x_preferred":[
+        "Geta"
+    ],
     "name:glg_x_preferred":[
         "Geta"
     ],
@@ -94,11 +97,17 @@
     "name:lav_x_preferred":[
         "Geta"
     ],
+    "name:lim_x_preferred":[
+        "Geta"
+    ],
     "name:lit_x_preferred":[
         "Geta"
     ],
     "name:mar_x_preferred":[
         "\u0917\u0947\u0924\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0408\u0435\u0442\u0430"
     ],
     "name:msa_x_preferred":[
         "Geta"
@@ -204,7 +213,7 @@
         }
     ],
     "wof:id":1126037877,
-    "wof:lastmodified":1566603670,
+    "wof:lastmodified":1690855716,
     "wof:name":"Geta",
     "wof:parent_id":907198503,
     "wof:placetype":"locality",

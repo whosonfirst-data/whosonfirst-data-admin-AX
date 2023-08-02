@@ -73,6 +73,9 @@
     "name:fra_x_preferred":[
         "Kumlinge"
     ],
+    "name:gle_x_preferred":[
+        "Kumlinge"
+    ],
     "name:glg_x_preferred":[
         "Kumlinge"
     ],
@@ -98,6 +101,9 @@
         "\ucff0\ub9c1\uc5d0"
     ],
     "name:lav_x_preferred":[
+        "Kumlinge"
+    ],
+    "name:lim_x_preferred":[
         "Kumlinge"
     ],
     "name:lit_x_preferred":[
@@ -132,6 +138,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd4\u0db8\u0dca\u0dbd\u0dd2\u0db1\u0dca\u0d9c\u0dda"
+    ],
+    "name:smn_x_preferred":[
+        "Kumlinge"
     ],
     "name:spa_x_preferred":[
         "Kumlinge"
@@ -216,7 +225,7 @@
         }
     ],
     "wof:id":1125839533,
-    "wof:lastmodified":1636495471,
+    "wof:lastmodified":1690855720,
     "wof:name":"Kumlinge",
     "wof:parent_id":907199697,
     "wof:placetype":"locality",

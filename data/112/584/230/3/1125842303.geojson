@@ -70,6 +70,9 @@
     "name:fra_x_preferred":[
         "Ecker\u00f6"
     ],
+    "name:gle_x_preferred":[
+        "Ecker\u00f6"
+    ],
     "name:glg_x_preferred":[
         "Ecker\u00f6"
     ],
@@ -147,6 +150,15 @@
     ],
     "name:sin_x_preferred":[
         "\u0d91\u0d9a\u0dd9\u0dbb\u0ddd"
+    ],
+    "name:sme_x_preferred":[
+        "Ecker\u00f6"
+    ],
+    "name:smn_x_preferred":[
+        "Ecker\u00f6"
+    ],
+    "name:sms_x_preferred":[
+        "Ecker\u00f6"
     ],
     "name:spa_x_preferred":[
         "Ecker\u00f6"
@@ -236,7 +248,7 @@
         }
     ],
     "wof:id":1125842303,
-    "wof:lastmodified":1566603672,
+    "wof:lastmodified":1690855720,
     "wof:name":"Ecker\u00f6",
     "wof:parent_id":907198473,
     "wof:placetype":"locality",

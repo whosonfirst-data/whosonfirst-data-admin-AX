@@ -67,17 +67,26 @@
     "name:fra_x_preferred":[
         "Sund"
     ],
+    "name:gle_x_preferred":[
+        "Sund"
+    ],
     "name:glg_x_preferred":[
         "Sund"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0a82\u0aa6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e0\u05d3"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0941\u0902\u0921"
     ],
     "name:hun_x_preferred":[
         "Sund"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u0576\u0564"
     ],
     "name:ind_x_preferred":[
         "Sund"
@@ -132,6 +141,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0db1\u0dca\u0da9\u0dca"
+    ],
+    "name:smn_x_preferred":[
+        "Sund"
     ],
     "name:spa_x_preferred":[
         "Sund"
@@ -222,7 +234,7 @@
         }
     ],
     "wof:id":1125873205,
-    "wof:lastmodified":1566603671,
+    "wof:lastmodified":1690855717,
     "wof:name":"Sund",
     "wof:parent_id":907198499,
     "wof:placetype":"locality",
