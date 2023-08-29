@@ -25,10 +25,16 @@
     "name:ceb_x_preferred":[
         "Jurmo"
     ],
+    "name:deu_x_preferred":[
+        "Jurmo"
+    ],
     "name:eng_x_preferred":[
         "Jurmo"
     ],
     "name:fin_x_preferred":[
+        "Jurmo"
+    ],
+    "name:fra_x_preferred":[
         "Jurmo"
     ],
     "name:nld_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125916429,
-    "wof:lastmodified":1566603671,
+    "wof:lastmodified":1690855717,
     "wof:name":"Jurmo",
     "wof:parent_id":907198555,
     "wof:placetype":"locality",

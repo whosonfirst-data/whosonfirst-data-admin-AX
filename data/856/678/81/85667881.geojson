@@ -77,6 +77,9 @@
     "name:fra_x_preferred":[
         "Lumparland"
     ],
+    "name:gle_x_preferred":[
+        "Lumparland"
+    ],
     "name:glg_x_preferred":[
         "Lumparland"
     ],
@@ -139,6 +142,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0db8\u0dca\u0db4\u0dcf\u0dbd\u0db1\u0dca\u0da9\u0dca"
+    ],
+    "name:smn_x_preferred":[
+        "Lumparland"
     ],
     "name:spa_x_preferred":[
         "Lumparland"
@@ -303,7 +309,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1636495470,
+    "wof:lastmodified":1690855712,
     "wof:name":"Lumparland",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

@@ -77,6 +77,9 @@
     "name:fra_x_preferred":[
         "Lemland"
     ],
+    "name:gle_x_preferred":[
+        "Lemland"
+    ],
     "name:glg_x_preferred":[
         "Lemland"
     ],
@@ -142,6 +145,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dda\u0db8\u0dca\u0dbd\u0db1\u0dca\u0da9\u0dca"
+    ],
+    "name:smn_x_preferred":[
+        "Lemland"
     ],
     "name:spa_x_preferred":[
         "Lemland"
@@ -306,7 +312,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1636495470,
+    "wof:lastmodified":1690855711,
     "wof:name":"Lemland",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

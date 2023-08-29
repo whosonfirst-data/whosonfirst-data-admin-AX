@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09cb\u09ae\u09be\u09b2\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Jomala"
+    ],
     "name:ceb_x_preferred":[
         "Jomala"
     ],
@@ -77,6 +80,9 @@
     "name:fra_x_preferred":[
         "Jomala"
     ],
+    "name:gle_x_preferred":[
+        "Jomala"
+    ],
     "name:glg_x_preferred":[
         "Jomala"
     ],
@@ -85,6 +91,9 @@
     ],
     "name:hbs_x_preferred":[
         "Jomala"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05de\u05dc\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u091c\u094b\u092e\u093e\u0932\u093e"
@@ -105,6 +114,9 @@
         "\uc870\ub9d0\ub77c"
     ],
     "name:lav_x_preferred":[
+        "Jomala"
+    ],
+    "name:lim_x_preferred":[
         "Jomala"
     ],
     "name:lit_x_preferred":[
@@ -142,6 +154,15 @@
     ],
     "name:sin_x_preferred":[
         "\u0da2\u0ddd\u0db8\u0dbd\u0dcf"
+    ],
+    "name:sme_x_preferred":[
+        "Jomala"
+    ],
+    "name:smn_x_preferred":[
+        "Jomala"
+    ],
+    "name:sms_x_preferred":[
+        "Jomala"
     ],
     "name:spa_x_preferred":[
         "Jomala"
@@ -303,7 +324,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1636495470,
+    "wof:lastmodified":1690855712,
     "wof:name":"Jomala",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

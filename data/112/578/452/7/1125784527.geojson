@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u064a\u0647\u0627\u0645\u0646"
     ],
+    "name:arg_x_preferred":[
+        "Mariehamn"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0647\u0627\u0645\u0646"
+    ],
     "name:ast_x_preferred":[
         "Maarianhamina"
     ],
@@ -70,17 +76,27 @@
     "name:cor_x_preferred":[
         "Mariehamn"
     ],
+    "name:cym_x_preferred":[
+        "Mariehamn"
+    ],
     "name:dan_x_preferred":[
         "Mariehamn"
     ],
     "name:deu_x_preferred":[
         "Mariehamn"
     ],
+    "name:diq_x_preferred":[
+        "Mariehamn"
+    ],
+    "name:dsb_x_preferred":[
+        "Mariehamn"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03c1\u03b9\u03b5\u03bd\u03c7\u03b1\u03bc\u03bd"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03ac\u03c1\u03b9\u03b5\u03c7\u03b1\u03bc\u03bd"
+        "\u039c\u03ac\u03c1\u03b9\u03b5\u03c7\u03b1\u03bc\u03bd",
+        "\u039c\u03b1\u03c1\u03b9\u03b5\u03c7\u03ac\u03bc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Mariehamn"
@@ -112,6 +128,9 @@
     "name:gla_x_preferred":[
         "Mariehamn"
     ],
+    "name:gle_x_preferred":[
+        "Mariehamn"
+    ],
     "name:glg_x_preferred":[
         "Mariehamn - Maarianhamina"
     ],
@@ -128,6 +147,9 @@
         "\u092e\u0947\u0930\u093f\u0939\u093e\u092e\u0948\u0928"
     ],
     "name:hrv_x_preferred":[
+        "Mariehamn"
+    ],
+    "name:hsb_x_preferred":[
         "Mariehamn"
     ],
     "name:hun_x_preferred":[
@@ -175,8 +197,17 @@
     "name:lmo_x_preferred":[
         "Marienhamn"
     ],
+    "name:ltz_x_preferred":[
+        "Mariehamn"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u0947\u0930\u093f\u0939\u0945\u092e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0435\u0433\u0430\u043c\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0435\u0445\u0430\u043c\u043d"
     ],
     "name:mri_x_preferred":[
         "Mariehamn"
@@ -186,6 +217,9 @@
     ],
     "name:msa_x_preferred":[
         "Mariehamn"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0647\u0627\u0645\u0646"
     ],
     "name:nan_x_preferred":[
         "Mariehamn"
@@ -244,10 +278,16 @@
     "name:sme_x_preferred":[
         "Mariehamn"
     ],
+    "name:smn_x_preferred":[
+        "Maarianhamina"
+    ],
     "name:spa_x_preferred":[
         "Mariehamn"
     ],
     "name:sqi_x_preferred":[
+        "Mariehamn"
+    ],
+    "name:srd_x_preferred":[
         "Mariehamn"
     ],
     "name:srp_x_preferred":[
@@ -255,6 +295,9 @@
     ],
     "name:srp_x_variant":[
         "\u041c\u0430\u0440\u0438\u0458\u0435\u0445\u0430\u043c\u043d"
+    ],
+    "name:sun_x_preferred":[
+        "Mariehamn"
     ],
     "name:swe_x_preferred":[
         "Mariehamn"
@@ -277,11 +320,17 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0456\u0454\u0445\u0430\u043c\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u0440\u0456\u0454\u0433\u0430\u043c\u043d"
+    ],
     "name:und_x_variant":[
         "Mariyekhamn"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u06cc\u06c1\u0627\u0645\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Mariyexamn"
     ],
     "name:vep_x_preferred":[
         "Mariehamn"
@@ -291,6 +340,12 @@
     ],
     "name:war_x_preferred":[
         "Mariehamn"
+    ],
+    "name:wuu_x_preferred":[
+        "\u739b\u4e3d\u6e2f"
+    ],
+    "name:yue_x_preferred":[
+        "\u746a\u9e97\u6e2f"
     ],
     "name:zho_x_preferred":[
         "\u739b\u4e3d\u6e2f"
@@ -351,7 +406,7 @@
         }
     ],
     "wof:id":1125784527,
-    "wof:lastmodified":1566603672,
+    "wof:lastmodified":1690855719,
     "wof:name":"Maarianhamina",
     "wof:parent_id":907199729,
     "wof:placetype":"locality",
