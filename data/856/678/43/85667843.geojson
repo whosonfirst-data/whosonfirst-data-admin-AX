@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019613,
-    "geom:area_square_m":120774355.341962,
+    "geom:area_square_m":120774519.813474,
     "geom:bbox":"19.747569,60.07392,20.050466,60.186225",
     "geom:latitude":60.131667,
     "geom:longitude":19.911966,
@@ -306,8 +306,9 @@
         "wd:id":"Q176178",
         "wk:page":"Jomala"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"25b2cd9da33bd883f1cd1a6700ab0e4b",
+    "wof:geomhash":"2786744e39d9cf3cbef5218703dddc10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -324,7 +325,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855712,
+    "wof:lastmodified":1695884795,
     "wof:name":"Jomala",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

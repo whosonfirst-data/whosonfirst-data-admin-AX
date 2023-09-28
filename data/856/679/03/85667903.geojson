@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003163,
-    "geom:area_square_m":19591299.026715,
+    "geom:area_square_m":19591276.103893,
     "geom:bbox":"20.848318,59.904486,20.996593,60.025987",
     "geom:latitude":59.938071,
     "geom:longitude":20.924258,
@@ -288,8 +288,9 @@
         "qs_pg:id":1287353,
         "wd:id":"Q179730"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"3933e82a0c6a9946c08ec56eaf2ebdb8",
+    "wof:geomhash":"79fcdc7ae1a4e1ac00ebb811e5646b05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +307,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855714,
+    "wof:lastmodified":1695884325,
     "wof:name":"K\u00f6kar",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

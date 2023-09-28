@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004865,
-    "geom:area_square_m":29979751.581734,
+    "geom:area_square_m":29979947.438323,
     "geom:bbox":"20.198253,60.060492,20.297618,60.149604",
     "geom:latitude":60.105736,
     "geom:longitude":20.246129,
@@ -291,8 +291,9 @@
         "wd:id":"Q176191",
         "wk:page":"Lumparland"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"dd322a0bfd566bf7d260b07bf83c8a7a",
+    "wof:geomhash":"b2ef13539444b2588eddf61acef001e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +310,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855712,
+    "wof:lastmodified":1695884795,
     "wof:name":"Lumparland",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

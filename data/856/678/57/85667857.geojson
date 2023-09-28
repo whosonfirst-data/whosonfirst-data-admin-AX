@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013874,
-    "geom:area_square_m":85709134.252506,
+    "geom:area_square_m":85709041.732257,
     "geom:bbox":"20.281315,59.953624,20.617931,60.11286",
     "geom:latitude":60.026648,
     "geom:longitude":20.448856,
@@ -280,8 +280,9 @@
         "wd:id":"Q179722",
         "wk:page":"F\u00f6gl\u00f6"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"8ed1c2a8af95e2741e3964dccf71ccab",
+    "wof:geomhash":"d8c36daccc605f6966b068177db55285",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -298,7 +299,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855710,
+    "wof:lastmodified":1695884324,
     "wof:name":"F\u00f6gl\u00f6",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

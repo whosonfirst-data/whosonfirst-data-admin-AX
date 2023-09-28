@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007794,
-    "geom:area_square_m":47648727.532769,
+    "geom:area_square_m":47648573.570201,
     "geom:bbox":"19.705007,60.313218,19.918468,60.405585",
     "geom:latitude":60.36871,
     "geom:longitude":19.847055,
@@ -285,8 +285,9 @@
         "wd:id":"Q134675",
         "wk:page":"Geta, \u00c5land"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"c572d591f3a352c53fb66ced068f6881",
+    "wof:geomhash":"f5da63ed6014296e1ab19df08b5b93a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +304,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855712,
+    "wof:lastmodified":1695884325,
     "wof:name":"Geta",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

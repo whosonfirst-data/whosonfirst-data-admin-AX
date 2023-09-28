@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01724,
-    "geom:area_square_m":105811296.053365,
+    "geom:area_square_m":105811296.053348,
     "geom:bbox":"20.0481876957,60.1671410183,20.2775985039,60.3257780045",
     "geom:latitude":60.241275,
     "geom:longitude":20.157402,
@@ -202,8 +202,9 @@
         "hasc:id":"AX.SD",
         "qs_pg:id":427798
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"1f24c49ba3a1c23919547eb77465a69e",
+    "wof:geomhash":"5370c8c2e362e13c13c8112520244bf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -220,7 +221,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1566603653,
+    "wof:lastmodified":1695884325,
     "wof:name":"Sund",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

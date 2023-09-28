@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002223,
-    "geom:area_square_m":13690602.657986,
+    "geom:area_square_m":13690693.613442,
     "geom:bbox":"20.566905,60.062486,20.823334,60.169664",
     "geom:latitude":60.123325,
     "geom:longitude":20.675422,
@@ -297,8 +297,9 @@
         "wd:id":"Q179739",
         "wk:page":"Sottunga"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"5c7e05b5d23ae1d9b8c262e8003d2f6f",
+    "wof:geomhash":"b3c22b0775b00b82b3cd5871f5c36acc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,7 +316,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855711,
+    "wof:lastmodified":1695884795,
     "wof:name":"Sottunga",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

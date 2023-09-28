@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015862,
-    "geom:area_square_m":97140543.432855,
+    "geom:area_square_m":97140508.029951,
     "geom:bbox":"19.948469,60.226508,20.164818,60.404568",
     "geom:latitude":60.312197,
     "geom:longitude":20.0463,
@@ -282,8 +282,9 @@
         "wd:id":"Q176196",
         "wk:page":"Saltvik"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"42c9942d2ed5237a604d419acb03853b",
+    "wof:geomhash":"f3123206f1d8fdf16d0d3adf3a8cfc78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -300,7 +301,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855713,
+    "wof:lastmodified":1695884325,
     "wof:name":"Saltvik",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

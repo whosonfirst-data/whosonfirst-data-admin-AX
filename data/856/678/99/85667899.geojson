@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006691,
-    "geom:area_square_m":40822875.428285,
+    "geom:area_square_m":40822869.575667,
     "geom:bbox":"20.868663,60.215928,21.098562,60.558417",
     "geom:latitude":60.434246,
     "geom:longitude":21.020156,
@@ -292,8 +292,9 @@
         "wd:id":"Q179706",
         "wk:page":"Br\u00e4nd\u00f6"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"b9e66c7828d2cbb56e62a1b7f3f70e8d",
+    "wof:geomhash":"e066c803f3a9fb7e46b1826b41842723",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,7 +311,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855713,
+    "wof:lastmodified":1695884325,
     "wof:name":"Br\u00e4nd\u00f6",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

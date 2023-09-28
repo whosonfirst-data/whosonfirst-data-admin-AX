@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001387,
-    "geom:area_square_m":8554690.534145,
+    "geom:area_square_m":8554690.534147,
     "geom:bbox":"19.91033,60.047675,19.965994,60.110769",
     "geom:latitude":60.083527,
     "geom:longitude":19.94037,
@@ -369,11 +369,12 @@
         "hasc:id":"AX.MH",
         "qs_pg:id":1116990
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         101815223
     ],
     "wof:country":"AX",
-    "wof:geomhash":"8dfd1cf482c4724a496046c57207fcf1",
+    "wof:geomhash":"ae94a4de022357862870e86fa5c75b4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -390,7 +391,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1636495470,
+    "wof:lastmodified":1695884795,
     "wof:name":"Mariehamn",
     "wof:parent_id":85632789,
     "wof:placetype":"region",
