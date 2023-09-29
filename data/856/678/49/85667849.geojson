@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0147,
-    "geom:area_square_m":90316164.289819,
+    "geom:area_square_m":90315897.686214,
     "geom:bbox":"19.326264,60.12995,19.674327,60.36636",
     "geom:latitude":60.207138,
     "geom:longitude":19.57946,
@@ -301,8 +301,9 @@
         "wd:id":"Q51909",
         "wk:page":"Ecker\u00f6"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"ab1944168d8b8277f67b4cdbd2dd81df",
+    "wof:geomhash":"94c6c4cf49cc49749ce82082297797df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -319,7 +320,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855714,
+    "wof:lastmodified":1695884325,
     "wof:name":"Ecker\u00f6",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

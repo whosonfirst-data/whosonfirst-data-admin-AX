@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008423,
-    "geom:area_square_m":51602057.676662,
+    "geom:area_square_m":51602085.806641,
     "geom:bbox":"20.600108,60.194566,20.936615,60.419135",
     "geom:latitude":60.302448,
     "geom:longitude":20.781834,
@@ -297,8 +297,9 @@
         "wd:id":"Q179726",
         "wk:page":"Kumlinge"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"1318d7360458c71509dcceb0d0662793",
+    "wof:geomhash":"5d2eebd999dd7b827f5505c5e4cc71f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,7 +316,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855711,
+    "wof:lastmodified":1695884795,
     "wof:name":"Kumlinge",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

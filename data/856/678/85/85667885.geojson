@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009739,
-    "geom:area_square_m":59750011.561516,
+    "geom:area_square_m":59749896.721263,
     "geom:bbox":"20.252533,60.147447,20.516449,60.432807",
     "geom:latitude":60.256293,
     "geom:longitude":20.371424,
@@ -316,8 +316,9 @@
         "wd:id":"Q179749",
         "wk:page":"V\u00e5rd\u00f6"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"69aeb7ad33a434c644b0a2e0856e0fe9",
+    "wof:geomhash":"f4e24a2ed6b933c5b5183f1417fc5841",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -334,7 +335,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855713,
+    "wof:lastmodified":1695884325,
     "wof:name":"V\u00e5rd\u00f6",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

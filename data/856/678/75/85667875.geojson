@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013382,
-    "geom:area_square_m":82638726.794728,
+    "geom:area_square_m":82638635.839094,
     "geom:bbox":"19.915294,59.835069,20.225218,60.094975",
     "geom:latitude":60.038491,
     "geom:longitude":20.130031,
@@ -294,8 +294,9 @@
         "wd:id":"Q176186",
         "wk:page":"Lemland"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"350b8a97de90d2f62a1e09bec3723f3b",
+    "wof:geomhash":"dd9bbe6dee3ef9e50c6074fb484714b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +313,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855711,
+    "wof:lastmodified":1695884795,
     "wof:name":"Lemland",
     "wof:parent_id":85632789,
     "wof:placetype":"region",

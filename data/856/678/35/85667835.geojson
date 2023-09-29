@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0164,
-    "geom:area_square_m":100645345.440319,
+    "geom:area_square_m":100645234.312492,
     "geom:bbox":"19.81422,60.170408,20.030528,60.370185",
     "geom:latitude":60.243497,
     "geom:longitude":19.920468,
@@ -291,8 +291,9 @@
         "wd:id":"Q51914",
         "wk:page":"Finstr\u00f6m"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AX",
-    "wof:geomhash":"6c2eb6985a46c4eeef39d2224bff4cb6",
+    "wof:geomhash":"1c1763350700a57222dc485c720dcfa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +310,7 @@
     "wof:lang_x_spoken":[
         "swe"
     ],
-    "wof:lastmodified":1690855710,
+    "wof:lastmodified":1695884324,
     "wof:name":"Finstr\u00f6m",
     "wof:parent_id":85632789,
     "wof:placetype":"region",
