@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3336451
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3336455
+        ]
+    },
     "wof:country":"AX",
     "wof:geomhash":"7fb6d8bdad8325d422e88f554a2dd3f7",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1260214567,
-    "wof:lastmodified":1566603665,
+    "wof:lastmodified":1706239319,
     "wof:name":"Norrgard",
     "wof:parent_id":907198489,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ax",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360121619
+    ],
     "wof:tags":[]
 },
   "bbox": [
